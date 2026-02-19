@@ -1,0 +1,3098 @@
+Folder PATH listing for volume Windows
+Volume serial number is D225-8983
+C:.
+¦   .env
+¦   .gitignore.txt
+¦   package-lock.json
+¦   package.json
+¦   server.js
+¦   server.js.txt
+¦   
++---COMPLIANCE-doc
++---docs
+¦       ARCHITECTURE.md
+¦       COMPLIANCE-MAPPING.md
+¦       repo-tree.txt
+¦       
++---node_modules
+¦   ¦   .package-lock.json
+¦   ¦   
+¦   +---.bin
+¦   ¦       semver
+¦   ¦       semver.cmd
+¦   ¦       semver.ps1
+¦   ¦       uuid
+¦   ¦       uuid.cmd
+¦   ¦       uuid.ps1
+¦   ¦       
+¦   +---@azure
+¦   ¦   +---msal-common
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---browser
+¦   ¦   ¦   ¦       package.json
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---dist
+¦   ¦   ¦   ¦   ¦   exports-browser-only.d.ts
+¦   ¦   ¦   ¦   ¦   exports-browser-only.d.ts.map
+¦   ¦   ¦   ¦   ¦   exports-common.d.ts
+¦   ¦   ¦   ¦   ¦   exports-common.d.ts.map
+¦   ¦   ¦   ¦   ¦   exports-node-only.d.ts
+¦   ¦   ¦   ¦   ¦   exports-node-only.d.ts.map
+¦   ¦   ¦   ¦   ¦   index-browser.d.ts
+¦   ¦   ¦   ¦   ¦   index-browser.d.ts.map
+¦   ¦   ¦   ¦   ¦   index-node.d.ts
+¦   ¦   ¦   ¦   ¦   index-node.d.ts.map
+¦   ¦   ¦   ¦   ¦   index-node.mjs
+¦   ¦   ¦   ¦   ¦   index-node.mjs.map
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.d.ts.map
+¦   ¦   ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦   ¦   index.mjs.map
+¦   ¦   ¦   ¦   ¦   packageMetadata.d.ts
+¦   ¦   ¦   ¦   ¦   packageMetadata.d.ts.map
+¦   ¦   ¦   ¦   ¦   packageMetadata.mjs
+¦   ¦   ¦   ¦   ¦   packageMetadata.mjs.map
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---account
+¦   ¦   ¦   ¦   ¦       AccountInfo.d.ts
+¦   ¦   ¦   ¦   ¦       AccountInfo.d.ts.map
+¦   ¦   ¦   ¦   ¦       AccountInfo.mjs
+¦   ¦   ¦   ¦   ¦       AccountInfo.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthToken.d.ts
+¦   ¦   ¦   ¦   ¦       AuthToken.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthToken.mjs
+¦   ¦   ¦   ¦   ¦       AuthToken.mjs.map
+¦   ¦   ¦   ¦   ¦       CcsCredential.d.ts
+¦   ¦   ¦   ¦   ¦       CcsCredential.d.ts.map
+¦   ¦   ¦   ¦   ¦       CcsCredential.mjs
+¦   ¦   ¦   ¦   ¦       CcsCredential.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientCredentials.d.ts
+¦   ¦   ¦   ¦   ¦       ClientCredentials.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientInfo.d.ts
+¦   ¦   ¦   ¦   ¦       ClientInfo.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientInfo.mjs
+¦   ¦   ¦   ¦   ¦       ClientInfo.mjs.map
+¦   ¦   ¦   ¦   ¦       TokenClaims.d.ts
+¦   ¦   ¦   ¦   ¦       TokenClaims.d.ts.map
+¦   ¦   ¦   ¦   ¦       TokenClaims.mjs
+¦   ¦   ¦   ¦   ¦       TokenClaims.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---authority
+¦   ¦   ¦   ¦   ¦       Authority.d.ts
+¦   ¦   ¦   ¦   ¦       Authority.d.ts.map
+¦   ¦   ¦   ¦   ¦       Authority.mjs
+¦   ¦   ¦   ¦   ¦       Authority.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthorityFactory.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorityFactory.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorityFactory.mjs
+¦   ¦   ¦   ¦   ¦       AuthorityFactory.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthorityMetadata.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorityMetadata.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorityMetadata.mjs
+¦   ¦   ¦   ¦   ¦       AuthorityMetadata.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthorityOptions.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorityOptions.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorityOptions.mjs
+¦   ¦   ¦   ¦   ¦       AuthorityOptions.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthorityType.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorityType.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorityType.mjs
+¦   ¦   ¦   ¦   ¦       AuthorityType.mjs.map
+¦   ¦   ¦   ¦   ¦       AzureRegion.d.ts
+¦   ¦   ¦   ¦   ¦       AzureRegion.d.ts.map
+¦   ¦   ¦   ¦   ¦       AzureRegionConfiguration.d.ts
+¦   ¦   ¦   ¦   ¦       AzureRegionConfiguration.d.ts.map
+¦   ¦   ¦   ¦   ¦       CloudDiscoveryMetadata.d.ts
+¦   ¦   ¦   ¦   ¦       CloudDiscoveryMetadata.d.ts.map
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryErrorResponse.d.ts
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryErrorResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryErrorResponse.mjs
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryErrorResponse.mjs.map
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryResponse.d.ts
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryResponse.mjs
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryResponse.mjs.map
+¦   ¦   ¦   ¦   ¦       ImdsOptions.d.ts
+¦   ¦   ¦   ¦   ¦       ImdsOptions.d.ts.map
+¦   ¦   ¦   ¦   ¦       OIDCOptions.d.ts
+¦   ¦   ¦   ¦   ¦       OIDCOptions.d.ts.map
+¦   ¦   ¦   ¦   ¦       OpenIdConfigResponse.d.ts
+¦   ¦   ¦   ¦   ¦       OpenIdConfigResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       OpenIdConfigResponse.mjs
+¦   ¦   ¦   ¦   ¦       OpenIdConfigResponse.mjs.map
+¦   ¦   ¦   ¦   ¦       ProtocolMode.d.ts
+¦   ¦   ¦   ¦   ¦       ProtocolMode.d.ts.map
+¦   ¦   ¦   ¦   ¦       ProtocolMode.mjs
+¦   ¦   ¦   ¦   ¦       ProtocolMode.mjs.map
+¦   ¦   ¦   ¦   ¦       RegionDiscovery.d.ts
+¦   ¦   ¦   ¦   ¦       RegionDiscovery.d.ts.map
+¦   ¦   ¦   ¦   ¦       RegionDiscovery.mjs
+¦   ¦   ¦   ¦   ¦       RegionDiscovery.mjs.map
+¦   ¦   ¦   ¦   ¦       RegionDiscoveryMetadata.d.ts
+¦   ¦   ¦   ¦   ¦       RegionDiscoveryMetadata.d.ts.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---broker
+¦   ¦   ¦   ¦   ¦   +---nativeBroker
+¦   ¦   ¦   ¦   ¦           INativeBrokerPlugin.d.ts
+¦   ¦   ¦   ¦   ¦           INativeBrokerPlugin.d.ts.map
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---cache
+¦   ¦   ¦   ¦   ¦   ¦   CacheManager.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   CacheManager.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦   CacheManager.mjs
+¦   ¦   ¦   ¦   ¦   ¦   CacheManager.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---entities
+¦   ¦   ¦   ¦   ¦   ¦       AccessTokenEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       AccessTokenEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       AccountEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       AccountEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       AppMetadataEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       AppMetadataEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       AuthorityMetadataEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       AuthorityMetadataEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       CacheRecord.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       CacheRecord.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       CredentialEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       CredentialEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       IdTokenEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       IdTokenEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       RefreshTokenEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       RefreshTokenEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       ServerTelemetryEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ServerTelemetryEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       ThrottlingEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ThrottlingEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---interface
+¦   ¦   ¦   ¦   ¦   ¦       ICacheManager.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ICacheManager.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       ICachePlugin.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ICachePlugin.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       ISerializableTokenCache.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ISerializableTokenCache.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---persistence
+¦   ¦   ¦   ¦   ¦   ¦       TokenCacheContext.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       TokenCacheContext.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       TokenCacheContext.mjs
+¦   ¦   ¦   ¦   ¦   ¦       TokenCacheContext.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦           AccountEntityUtils.d.ts
+¦   ¦   ¦   ¦   ¦           AccountEntityUtils.d.ts.map
+¦   ¦   ¦   ¦   ¦           AccountEntityUtils.mjs
+¦   ¦   ¦   ¦   ¦           AccountEntityUtils.mjs.map
+¦   ¦   ¦   ¦   ¦           CacheHelpers.d.ts
+¦   ¦   ¦   ¦   ¦           CacheHelpers.d.ts.map
+¦   ¦   ¦   ¦   ¦           CacheHelpers.mjs
+¦   ¦   ¦   ¦   ¦           CacheHelpers.mjs.map
+¦   ¦   ¦   ¦   ¦           CacheTypes.d.ts
+¦   ¦   ¦   ¦   ¦           CacheTypes.d.ts.map
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---client
+¦   ¦   ¦   ¦   ¦       AuthorizationCodeClient.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorizationCodeClient.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorizationCodeClient.mjs
+¦   ¦   ¦   ¦   ¦       AuthorizationCodeClient.mjs.map
+¦   ¦   ¦   ¦   ¦       RefreshTokenClient.d.ts
+¦   ¦   ¦   ¦   ¦       RefreshTokenClient.d.ts.map
+¦   ¦   ¦   ¦   ¦       RefreshTokenClient.mjs
+¦   ¦   ¦   ¦   ¦       RefreshTokenClient.mjs.map
+¦   ¦   ¦   ¦   ¦       SilentFlowClient.d.ts
+¦   ¦   ¦   ¦   ¦       SilentFlowClient.d.ts.map
+¦   ¦   ¦   ¦   ¦       SilentFlowClient.mjs
+¦   ¦   ¦   ¦   ¦       SilentFlowClient.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   ¦       AppTokenProvider.d.ts
+¦   ¦   ¦   ¦   ¦       AppTokenProvider.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientConfiguration.d.ts
+¦   ¦   ¦   ¦   ¦       ClientConfiguration.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientConfiguration.mjs
+¦   ¦   ¦   ¦   ¦       ClientConfiguration.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---constants
+¦   ¦   ¦   ¦   ¦       AADServerParamKeys.d.ts
+¦   ¦   ¦   ¦   ¦       AADServerParamKeys.d.ts.map
+¦   ¦   ¦   ¦   ¦       AADServerParamKeys.mjs
+¦   ¦   ¦   ¦   ¦       AADServerParamKeys.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---crypto
+¦   ¦   ¦   ¦   ¦       ICrypto.d.ts
+¦   ¦   ¦   ¦   ¦       ICrypto.d.ts.map
+¦   ¦   ¦   ¦   ¦       ICrypto.mjs
+¦   ¦   ¦   ¦   ¦       ICrypto.mjs.map
+¦   ¦   ¦   ¦   ¦       IGuidGenerator.d.ts
+¦   ¦   ¦   ¦   ¦       IGuidGenerator.d.ts.map
+¦   ¦   ¦   ¦   ¦       JoseHeader.d.ts
+¦   ¦   ¦   ¦   ¦       JoseHeader.d.ts.map
+¦   ¦   ¦   ¦   ¦       JoseHeader.mjs
+¦   ¦   ¦   ¦   ¦       JoseHeader.mjs.map
+¦   ¦   ¦   ¦   ¦       PopTokenGenerator.d.ts
+¦   ¦   ¦   ¦   ¦       PopTokenGenerator.d.ts.map
+¦   ¦   ¦   ¦   ¦       PopTokenGenerator.mjs
+¦   ¦   ¦   ¦   ¦       PopTokenGenerator.mjs.map
+¦   ¦   ¦   ¦   ¦       SignedHttpRequest.d.ts
+¦   ¦   ¦   ¦   ¦       SignedHttpRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---error
+¦   ¦   ¦   ¦   ¦       AuthError.d.ts
+¦   ¦   ¦   ¦   ¦       AuthError.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthError.mjs
+¦   ¦   ¦   ¦   ¦       AuthError.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       AuthErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       AuthErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       CacheError.d.ts
+¦   ¦   ¦   ¦   ¦       CacheError.d.ts.map
+¦   ¦   ¦   ¦   ¦       CacheError.mjs
+¦   ¦   ¦   ¦   ¦       CacheError.mjs.map
+¦   ¦   ¦   ¦   ¦       CacheErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       CacheErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       CacheErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       CacheErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientAuthError.d.ts
+¦   ¦   ¦   ¦   ¦       ClientAuthError.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientAuthError.mjs
+¦   ¦   ¦   ¦   ¦       ClientAuthError.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientAuthErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       ClientAuthErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientAuthErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       ClientAuthErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientConfigurationError.d.ts
+¦   ¦   ¦   ¦   ¦       ClientConfigurationError.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientConfigurationError.mjs
+¦   ¦   ¦   ¦   ¦       ClientConfigurationError.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientConfigurationErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       ClientConfigurationErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientConfigurationErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       ClientConfigurationErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthError.d.ts
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthError.d.ts.map
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthError.mjs
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthError.mjs.map
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       JoseHeaderError.d.ts
+¦   ¦   ¦   ¦   ¦       JoseHeaderError.d.ts.map
+¦   ¦   ¦   ¦   ¦       JoseHeaderError.mjs
+¦   ¦   ¦   ¦   ¦       JoseHeaderError.mjs.map
+¦   ¦   ¦   ¦   ¦       JoseHeaderErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       JoseHeaderErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       JoseHeaderErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       JoseHeaderErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       NetworkError.d.ts
+¦   ¦   ¦   ¦   ¦       NetworkError.d.ts.map
+¦   ¦   ¦   ¦   ¦       NetworkError.mjs
+¦   ¦   ¦   ¦   ¦       NetworkError.mjs.map
+¦   ¦   ¦   ¦   ¦       PlatformBrokerError.d.ts
+¦   ¦   ¦   ¦   ¦       PlatformBrokerError.d.ts.map
+¦   ¦   ¦   ¦   ¦       PlatformBrokerError.mjs
+¦   ¦   ¦   ¦   ¦       PlatformBrokerError.mjs.map
+¦   ¦   ¦   ¦   ¦       ServerError.d.ts
+¦   ¦   ¦   ¦   ¦       ServerError.d.ts.map
+¦   ¦   ¦   ¦   ¦       ServerError.mjs
+¦   ¦   ¦   ¦   ¦       ServerError.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---logger
+¦   ¦   ¦   ¦   ¦       Logger.d.ts
+¦   ¦   ¦   ¦   ¦       Logger.d.ts.map
+¦   ¦   ¦   ¦   ¦       Logger.mjs
+¦   ¦   ¦   ¦   ¦       Logger.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---network
+¦   ¦   ¦   ¦   ¦       INetworkModule.d.ts
+¦   ¦   ¦   ¦   ¦       INetworkModule.d.ts.map
+¦   ¦   ¦   ¦   ¦       INetworkModule.mjs
+¦   ¦   ¦   ¦   ¦       INetworkModule.mjs.map
+¦   ¦   ¦   ¦   ¦       NetworkResponse.d.ts
+¦   ¦   ¦   ¦   ¦       NetworkResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       RequestThumbprint.d.ts
+¦   ¦   ¦   ¦   ¦       RequestThumbprint.d.ts.map
+¦   ¦   ¦   ¦   ¦       RequestThumbprint.mjs
+¦   ¦   ¦   ¦   ¦       RequestThumbprint.mjs.map
+¦   ¦   ¦   ¦   ¦       ThrottlingUtils.d.ts
+¦   ¦   ¦   ¦   ¦       ThrottlingUtils.d.ts.map
+¦   ¦   ¦   ¦   ¦       ThrottlingUtils.mjs
+¦   ¦   ¦   ¦   ¦       ThrottlingUtils.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---protocol
+¦   ¦   ¦   ¦   ¦       Authorize.d.ts
+¦   ¦   ¦   ¦   ¦       Authorize.d.ts.map
+¦   ¦   ¦   ¦   ¦       Authorize.mjs
+¦   ¦   ¦   ¦   ¦       Authorize.mjs.map
+¦   ¦   ¦   ¦   ¦       Token.d.ts
+¦   ¦   ¦   ¦   ¦       Token.d.ts.map
+¦   ¦   ¦   ¦   ¦       Token.mjs
+¦   ¦   ¦   ¦   ¦       Token.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---request
+¦   ¦   ¦   ¦   ¦       AuthenticationHeaderParser.d.ts
+¦   ¦   ¦   ¦   ¦       AuthenticationHeaderParser.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthenticationHeaderParser.mjs
+¦   ¦   ¦   ¦   ¦       AuthenticationHeaderParser.mjs.map
+¦   ¦   ¦   ¦   ¦       BaseAuthRequest.d.ts
+¦   ¦   ¦   ¦   ¦       BaseAuthRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonAuthorizationCodeRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonAuthorizationCodeRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonAuthorizationUrlRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonAuthorizationUrlRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonEndSessionRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonEndSessionRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonRefreshTokenRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonRefreshTokenRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonSilentFlowRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonSilentFlowRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       NativeRequest.d.ts
+¦   ¦   ¦   ¦   ¦       NativeRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       NativeSignOutRequest.d.ts
+¦   ¦   ¦   ¦   ¦       NativeSignOutRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       RequestParameterBuilder.d.ts
+¦   ¦   ¦   ¦   ¦       RequestParameterBuilder.d.ts.map
+¦   ¦   ¦   ¦   ¦       RequestParameterBuilder.mjs
+¦   ¦   ¦   ¦   ¦       RequestParameterBuilder.mjs.map
+¦   ¦   ¦   ¦   ¦       ScopeSet.d.ts
+¦   ¦   ¦   ¦   ¦       ScopeSet.d.ts.map
+¦   ¦   ¦   ¦   ¦       ScopeSet.mjs
+¦   ¦   ¦   ¦   ¦       ScopeSet.mjs.map
+¦   ¦   ¦   ¦   ¦       StoreInCache.d.ts
+¦   ¦   ¦   ¦   ¦       StoreInCache.d.ts.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---response
+¦   ¦   ¦   ¦   ¦       AuthenticationResult.d.ts
+¦   ¦   ¦   ¦   ¦       AuthenticationResult.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorizationCodePayload.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorizationCodePayload.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorizeResponse.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorizeResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       DeviceCodeResponse.d.ts
+¦   ¦   ¦   ¦   ¦       DeviceCodeResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       ExternalTokenResponse.d.ts
+¦   ¦   ¦   ¦   ¦       ExternalTokenResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       IMDSBadResponse.d.ts
+¦   ¦   ¦   ¦   ¦       IMDSBadResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       ResponseHandler.d.ts
+¦   ¦   ¦   ¦   ¦       ResponseHandler.d.ts.map
+¦   ¦   ¦   ¦   ¦       ResponseHandler.mjs
+¦   ¦   ¦   ¦   ¦       ResponseHandler.mjs.map
+¦   ¦   ¦   ¦   ¦       ServerAuthorizationTokenResponse.d.ts
+¦   ¦   ¦   ¦   ¦       ServerAuthorizationTokenResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---telemetry
+¦   ¦   ¦   ¦   ¦   +---performance
+¦   ¦   ¦   ¦   ¦   ¦       IPerformanceClient.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       IPerformanceClient.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       IPerformanceMeasurement.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       IPerformanceMeasurement.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceClient.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceClient.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceClient.mjs
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceClient.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvent.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvent.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvent.mjs
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvent.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvents.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvents.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvents.mjs
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvents.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       StubPerformanceClient.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       StubPerformanceClient.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       StubPerformanceClient.mjs
+¦   ¦   ¦   ¦   ¦   ¦       StubPerformanceClient.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---server
+¦   ¦   ¦   ¦   ¦           ServerTelemetryManager.d.ts
+¦   ¦   ¦   ¦   ¦           ServerTelemetryManager.d.ts.map
+¦   ¦   ¦   ¦   ¦           ServerTelemetryManager.mjs
+¦   ¦   ¦   ¦   ¦           ServerTelemetryManager.mjs.map
+¦   ¦   ¦   ¦   ¦           ServerTelemetryRequest.d.ts
+¦   ¦   ¦   ¦   ¦           ServerTelemetryRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---url
+¦   ¦   ¦   ¦   ¦       IUri.d.ts
+¦   ¦   ¦   ¦   ¦       IUri.d.ts.map
+¦   ¦   ¦   ¦   ¦       UrlString.d.ts
+¦   ¦   ¦   ¦   ¦       UrlString.d.ts.map
+¦   ¦   ¦   ¦   ¦       UrlString.mjs
+¦   ¦   ¦   ¦   ¦       UrlString.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦           ClientAssertionUtils.d.ts
+¦   ¦   ¦   ¦           ClientAssertionUtils.d.ts.map
+¦   ¦   ¦   ¦           ClientAssertionUtils.mjs
+¦   ¦   ¦   ¦           ClientAssertionUtils.mjs.map
+¦   ¦   ¦   ¦           Constants.d.ts
+¦   ¦   ¦   ¦           Constants.d.ts.map
+¦   ¦   ¦   ¦           Constants.mjs
+¦   ¦   ¦   ¦           Constants.mjs.map
+¦   ¦   ¦   ¦           FunctionWrappers.d.ts
+¦   ¦   ¦   ¦           FunctionWrappers.d.ts.map
+¦   ¦   ¦   ¦           FunctionWrappers.mjs
+¦   ¦   ¦   ¦           FunctionWrappers.mjs.map
+¦   ¦   ¦   ¦           MsalTypes.d.ts
+¦   ¦   ¦   ¦           MsalTypes.d.ts.map
+¦   ¦   ¦   ¦           ProtocolUtils.d.ts
+¦   ¦   ¦   ¦           ProtocolUtils.d.ts.map
+¦   ¦   ¦   ¦           ProtocolUtils.mjs
+¦   ¦   ¦   ¦           ProtocolUtils.mjs.map
+¦   ¦   ¦   ¦           StateTypes.d.ts
+¦   ¦   ¦   ¦           StateTypes.d.ts.map
+¦   ¦   ¦   ¦           StringUtils.d.ts
+¦   ¦   ¦   ¦           StringUtils.d.ts.map
+¦   ¦   ¦   ¦           StringUtils.mjs
+¦   ¦   ¦   ¦           StringUtils.mjs.map
+¦   ¦   ¦   ¦           TimeUtils.d.ts
+¦   ¦   ¦   ¦           TimeUtils.d.ts.map
+¦   ¦   ¦   ¦           TimeUtils.mjs
+¦   ¦   ¦   ¦           TimeUtils.mjs.map
+¦   ¦   ¦   ¦           UrlUtils.d.ts
+¦   ¦   ¦   ¦           UrlUtils.d.ts.map
+¦   ¦   ¦   ¦           UrlUtils.mjs
+¦   ¦   ¦   ¦           UrlUtils.mjs.map
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---dist-browser
+¦   ¦   ¦   ¦   ¦   exports-browser-only.d.ts
+¦   ¦   ¦   ¦   ¦   exports-browser-only.d.ts.map
+¦   ¦   ¦   ¦   ¦   exports-common.d.ts
+¦   ¦   ¦   ¦   ¦   exports-common.d.ts.map
+¦   ¦   ¦   ¦   ¦   exports-node-only.d.ts
+¦   ¦   ¦   ¦   ¦   exports-node-only.d.ts.map
+¦   ¦   ¦   ¦   ¦   index-browser.d.ts
+¦   ¦   ¦   ¦   ¦   index-browser.d.ts.map
+¦   ¦   ¦   ¦   ¦   index-browser.mjs
+¦   ¦   ¦   ¦   ¦   index-browser.mjs.map
+¦   ¦   ¦   ¦   ¦   index-node.d.ts
+¦   ¦   ¦   ¦   ¦   index-node.d.ts.map
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.d.ts.map
+¦   ¦   ¦   ¦   ¦   index.mjs
+¦   ¦   ¦   ¦   ¦   index.mjs.map
+¦   ¦   ¦   ¦   ¦   log-strings-mapping.json
+¦   ¦   ¦   ¦   ¦   packageMetadata.d.ts
+¦   ¦   ¦   ¦   ¦   packageMetadata.d.ts.map
+¦   ¦   ¦   ¦   ¦   packageMetadata.mjs
+¦   ¦   ¦   ¦   ¦   packageMetadata.mjs.map
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---account
+¦   ¦   ¦   ¦   ¦       AccountInfo.d.ts
+¦   ¦   ¦   ¦   ¦       AccountInfo.d.ts.map
+¦   ¦   ¦   ¦   ¦       AccountInfo.mjs
+¦   ¦   ¦   ¦   ¦       AccountInfo.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthToken.d.ts
+¦   ¦   ¦   ¦   ¦       AuthToken.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthToken.mjs
+¦   ¦   ¦   ¦   ¦       AuthToken.mjs.map
+¦   ¦   ¦   ¦   ¦       CcsCredential.d.ts
+¦   ¦   ¦   ¦   ¦       CcsCredential.d.ts.map
+¦   ¦   ¦   ¦   ¦       CcsCredential.mjs
+¦   ¦   ¦   ¦   ¦       CcsCredential.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientCredentials.d.ts
+¦   ¦   ¦   ¦   ¦       ClientCredentials.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientInfo.d.ts
+¦   ¦   ¦   ¦   ¦       ClientInfo.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientInfo.mjs
+¦   ¦   ¦   ¦   ¦       ClientInfo.mjs.map
+¦   ¦   ¦   ¦   ¦       TokenClaims.d.ts
+¦   ¦   ¦   ¦   ¦       TokenClaims.d.ts.map
+¦   ¦   ¦   ¦   ¦       TokenClaims.mjs
+¦   ¦   ¦   ¦   ¦       TokenClaims.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---authority
+¦   ¦   ¦   ¦   ¦       Authority.d.ts
+¦   ¦   ¦   ¦   ¦       Authority.d.ts.map
+¦   ¦   ¦   ¦   ¦       Authority.mjs
+¦   ¦   ¦   ¦   ¦       Authority.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthorityFactory.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorityFactory.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorityFactory.mjs
+¦   ¦   ¦   ¦   ¦       AuthorityFactory.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthorityMetadata.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorityMetadata.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorityMetadata.mjs
+¦   ¦   ¦   ¦   ¦       AuthorityMetadata.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthorityOptions.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorityOptions.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorityOptions.mjs
+¦   ¦   ¦   ¦   ¦       AuthorityOptions.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthorityType.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorityType.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorityType.mjs
+¦   ¦   ¦   ¦   ¦       AuthorityType.mjs.map
+¦   ¦   ¦   ¦   ¦       AzureRegion.d.ts
+¦   ¦   ¦   ¦   ¦       AzureRegion.d.ts.map
+¦   ¦   ¦   ¦   ¦       AzureRegionConfiguration.d.ts
+¦   ¦   ¦   ¦   ¦       AzureRegionConfiguration.d.ts.map
+¦   ¦   ¦   ¦   ¦       CloudDiscoveryMetadata.d.ts
+¦   ¦   ¦   ¦   ¦       CloudDiscoveryMetadata.d.ts.map
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryErrorResponse.d.ts
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryErrorResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryErrorResponse.mjs
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryErrorResponse.mjs.map
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryResponse.d.ts
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryResponse.mjs
+¦   ¦   ¦   ¦   ¦       CloudInstanceDiscoveryResponse.mjs.map
+¦   ¦   ¦   ¦   ¦       ImdsOptions.d.ts
+¦   ¦   ¦   ¦   ¦       ImdsOptions.d.ts.map
+¦   ¦   ¦   ¦   ¦       OIDCOptions.d.ts
+¦   ¦   ¦   ¦   ¦       OIDCOptions.d.ts.map
+¦   ¦   ¦   ¦   ¦       OpenIdConfigResponse.d.ts
+¦   ¦   ¦   ¦   ¦       OpenIdConfigResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       OpenIdConfigResponse.mjs
+¦   ¦   ¦   ¦   ¦       OpenIdConfigResponse.mjs.map
+¦   ¦   ¦   ¦   ¦       ProtocolMode.d.ts
+¦   ¦   ¦   ¦   ¦       ProtocolMode.d.ts.map
+¦   ¦   ¦   ¦   ¦       ProtocolMode.mjs
+¦   ¦   ¦   ¦   ¦       ProtocolMode.mjs.map
+¦   ¦   ¦   ¦   ¦       RegionDiscovery.d.ts
+¦   ¦   ¦   ¦   ¦       RegionDiscovery.d.ts.map
+¦   ¦   ¦   ¦   ¦       RegionDiscovery.mjs
+¦   ¦   ¦   ¦   ¦       RegionDiscovery.mjs.map
+¦   ¦   ¦   ¦   ¦       RegionDiscoveryMetadata.d.ts
+¦   ¦   ¦   ¦   ¦       RegionDiscoveryMetadata.d.ts.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---broker
+¦   ¦   ¦   ¦   ¦   +---nativeBroker
+¦   ¦   ¦   ¦   ¦           INativeBrokerPlugin.d.ts
+¦   ¦   ¦   ¦   ¦           INativeBrokerPlugin.d.ts.map
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---cache
+¦   ¦   ¦   ¦   ¦   ¦   CacheManager.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   CacheManager.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦   CacheManager.mjs
+¦   ¦   ¦   ¦   ¦   ¦   CacheManager.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---entities
+¦   ¦   ¦   ¦   ¦   ¦       AccessTokenEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       AccessTokenEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       AccountEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       AccountEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       AppMetadataEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       AppMetadataEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       AuthorityMetadataEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       AuthorityMetadataEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       CacheRecord.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       CacheRecord.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       CredentialEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       CredentialEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       IdTokenEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       IdTokenEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       RefreshTokenEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       RefreshTokenEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       ServerTelemetryEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ServerTelemetryEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       ThrottlingEntity.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ThrottlingEntity.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---interface
+¦   ¦   ¦   ¦   ¦   ¦       ICacheManager.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ICacheManager.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       ICachePlugin.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ICachePlugin.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       ISerializableTokenCache.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       ISerializableTokenCache.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---persistence
+¦   ¦   ¦   ¦   ¦   ¦       TokenCacheContext.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       TokenCacheContext.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       TokenCacheContext.mjs
+¦   ¦   ¦   ¦   ¦   ¦       TokenCacheContext.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦           AccountEntityUtils.d.ts
+¦   ¦   ¦   ¦   ¦           AccountEntityUtils.d.ts.map
+¦   ¦   ¦   ¦   ¦           AccountEntityUtils.mjs
+¦   ¦   ¦   ¦   ¦           AccountEntityUtils.mjs.map
+¦   ¦   ¦   ¦   ¦           CacheHelpers.d.ts
+¦   ¦   ¦   ¦   ¦           CacheHelpers.d.ts.map
+¦   ¦   ¦   ¦   ¦           CacheHelpers.mjs
+¦   ¦   ¦   ¦   ¦           CacheHelpers.mjs.map
+¦   ¦   ¦   ¦   ¦           CacheTypes.d.ts
+¦   ¦   ¦   ¦   ¦           CacheTypes.d.ts.map
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---client
+¦   ¦   ¦   ¦   ¦       AuthorizationCodeClient.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorizationCodeClient.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorizationCodeClient.mjs
+¦   ¦   ¦   ¦   ¦       AuthorizationCodeClient.mjs.map
+¦   ¦   ¦   ¦   ¦       RefreshTokenClient.d.ts
+¦   ¦   ¦   ¦   ¦       RefreshTokenClient.d.ts.map
+¦   ¦   ¦   ¦   ¦       RefreshTokenClient.mjs
+¦   ¦   ¦   ¦   ¦       RefreshTokenClient.mjs.map
+¦   ¦   ¦   ¦   ¦       SilentFlowClient.d.ts
+¦   ¦   ¦   ¦   ¦       SilentFlowClient.d.ts.map
+¦   ¦   ¦   ¦   ¦       SilentFlowClient.mjs
+¦   ¦   ¦   ¦   ¦       SilentFlowClient.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   ¦       AppTokenProvider.d.ts
+¦   ¦   ¦   ¦   ¦       AppTokenProvider.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientConfiguration.d.ts
+¦   ¦   ¦   ¦   ¦       ClientConfiguration.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientConfiguration.mjs
+¦   ¦   ¦   ¦   ¦       ClientConfiguration.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---constants
+¦   ¦   ¦   ¦   ¦       AADServerParamKeys.d.ts
+¦   ¦   ¦   ¦   ¦       AADServerParamKeys.d.ts.map
+¦   ¦   ¦   ¦   ¦       AADServerParamKeys.mjs
+¦   ¦   ¦   ¦   ¦       AADServerParamKeys.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---crypto
+¦   ¦   ¦   ¦   ¦       ICrypto.d.ts
+¦   ¦   ¦   ¦   ¦       ICrypto.d.ts.map
+¦   ¦   ¦   ¦   ¦       ICrypto.mjs
+¦   ¦   ¦   ¦   ¦       ICrypto.mjs.map
+¦   ¦   ¦   ¦   ¦       IGuidGenerator.d.ts
+¦   ¦   ¦   ¦   ¦       IGuidGenerator.d.ts.map
+¦   ¦   ¦   ¦   ¦       JoseHeader.d.ts
+¦   ¦   ¦   ¦   ¦       JoseHeader.d.ts.map
+¦   ¦   ¦   ¦   ¦       JoseHeader.mjs
+¦   ¦   ¦   ¦   ¦       JoseHeader.mjs.map
+¦   ¦   ¦   ¦   ¦       PopTokenGenerator.d.ts
+¦   ¦   ¦   ¦   ¦       PopTokenGenerator.d.ts.map
+¦   ¦   ¦   ¦   ¦       PopTokenGenerator.mjs
+¦   ¦   ¦   ¦   ¦       PopTokenGenerator.mjs.map
+¦   ¦   ¦   ¦   ¦       SignedHttpRequest.d.ts
+¦   ¦   ¦   ¦   ¦       SignedHttpRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---error
+¦   ¦   ¦   ¦   ¦       AuthError.d.ts
+¦   ¦   ¦   ¦   ¦       AuthError.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthError.mjs
+¦   ¦   ¦   ¦   ¦       AuthError.mjs.map
+¦   ¦   ¦   ¦   ¦       AuthErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       AuthErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       AuthErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       CacheError.d.ts
+¦   ¦   ¦   ¦   ¦       CacheError.d.ts.map
+¦   ¦   ¦   ¦   ¦       CacheError.mjs
+¦   ¦   ¦   ¦   ¦       CacheError.mjs.map
+¦   ¦   ¦   ¦   ¦       CacheErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       CacheErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       CacheErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       CacheErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientAuthError.d.ts
+¦   ¦   ¦   ¦   ¦       ClientAuthError.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientAuthError.mjs
+¦   ¦   ¦   ¦   ¦       ClientAuthError.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientAuthErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       ClientAuthErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientAuthErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       ClientAuthErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientConfigurationError.d.ts
+¦   ¦   ¦   ¦   ¦       ClientConfigurationError.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientConfigurationError.mjs
+¦   ¦   ¦   ¦   ¦       ClientConfigurationError.mjs.map
+¦   ¦   ¦   ¦   ¦       ClientConfigurationErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       ClientConfigurationErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       ClientConfigurationErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       ClientConfigurationErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthError.d.ts
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthError.d.ts.map
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthError.mjs
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthError.mjs.map
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       InteractionRequiredAuthErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       JoseHeaderError.d.ts
+¦   ¦   ¦   ¦   ¦       JoseHeaderError.d.ts.map
+¦   ¦   ¦   ¦   ¦       JoseHeaderError.mjs
+¦   ¦   ¦   ¦   ¦       JoseHeaderError.mjs.map
+¦   ¦   ¦   ¦   ¦       JoseHeaderErrorCodes.d.ts
+¦   ¦   ¦   ¦   ¦       JoseHeaderErrorCodes.d.ts.map
+¦   ¦   ¦   ¦   ¦       JoseHeaderErrorCodes.mjs
+¦   ¦   ¦   ¦   ¦       JoseHeaderErrorCodes.mjs.map
+¦   ¦   ¦   ¦   ¦       NetworkError.d.ts
+¦   ¦   ¦   ¦   ¦       NetworkError.d.ts.map
+¦   ¦   ¦   ¦   ¦       NetworkError.mjs
+¦   ¦   ¦   ¦   ¦       NetworkError.mjs.map
+¦   ¦   ¦   ¦   ¦       PlatformBrokerError.d.ts
+¦   ¦   ¦   ¦   ¦       PlatformBrokerError.d.ts.map
+¦   ¦   ¦   ¦   ¦       PlatformBrokerError.mjs
+¦   ¦   ¦   ¦   ¦       PlatformBrokerError.mjs.map
+¦   ¦   ¦   ¦   ¦       ServerError.d.ts
+¦   ¦   ¦   ¦   ¦       ServerError.d.ts.map
+¦   ¦   ¦   ¦   ¦       ServerError.mjs
+¦   ¦   ¦   ¦   ¦       ServerError.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---logger
+¦   ¦   ¦   ¦   ¦       Logger.d.ts
+¦   ¦   ¦   ¦   ¦       Logger.d.ts.map
+¦   ¦   ¦   ¦   ¦       Logger.mjs
+¦   ¦   ¦   ¦   ¦       Logger.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---network
+¦   ¦   ¦   ¦   ¦       INetworkModule.d.ts
+¦   ¦   ¦   ¦   ¦       INetworkModule.d.ts.map
+¦   ¦   ¦   ¦   ¦       INetworkModule.mjs
+¦   ¦   ¦   ¦   ¦       INetworkModule.mjs.map
+¦   ¦   ¦   ¦   ¦       NetworkResponse.d.ts
+¦   ¦   ¦   ¦   ¦       NetworkResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       RequestThumbprint.d.ts
+¦   ¦   ¦   ¦   ¦       RequestThumbprint.d.ts.map
+¦   ¦   ¦   ¦   ¦       RequestThumbprint.mjs
+¦   ¦   ¦   ¦   ¦       RequestThumbprint.mjs.map
+¦   ¦   ¦   ¦   ¦       ThrottlingUtils.d.ts
+¦   ¦   ¦   ¦   ¦       ThrottlingUtils.d.ts.map
+¦   ¦   ¦   ¦   ¦       ThrottlingUtils.mjs
+¦   ¦   ¦   ¦   ¦       ThrottlingUtils.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---protocol
+¦   ¦   ¦   ¦   ¦       Authorize.d.ts
+¦   ¦   ¦   ¦   ¦       Authorize.d.ts.map
+¦   ¦   ¦   ¦   ¦       Authorize.mjs
+¦   ¦   ¦   ¦   ¦       Authorize.mjs.map
+¦   ¦   ¦   ¦   ¦       Token.d.ts
+¦   ¦   ¦   ¦   ¦       Token.d.ts.map
+¦   ¦   ¦   ¦   ¦       Token.mjs
+¦   ¦   ¦   ¦   ¦       Token.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---request
+¦   ¦   ¦   ¦   ¦       AuthenticationHeaderParser.d.ts
+¦   ¦   ¦   ¦   ¦       AuthenticationHeaderParser.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthenticationHeaderParser.mjs
+¦   ¦   ¦   ¦   ¦       AuthenticationHeaderParser.mjs.map
+¦   ¦   ¦   ¦   ¦       BaseAuthRequest.d.ts
+¦   ¦   ¦   ¦   ¦       BaseAuthRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonAuthorizationCodeRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonAuthorizationCodeRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonAuthorizationUrlRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonAuthorizationUrlRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonEndSessionRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonEndSessionRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonRefreshTokenRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonRefreshTokenRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       CommonSilentFlowRequest.d.ts
+¦   ¦   ¦   ¦   ¦       CommonSilentFlowRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       NativeRequest.d.ts
+¦   ¦   ¦   ¦   ¦       NativeRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       NativeSignOutRequest.d.ts
+¦   ¦   ¦   ¦   ¦       NativeSignOutRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦       RequestParameterBuilder.d.ts
+¦   ¦   ¦   ¦   ¦       RequestParameterBuilder.d.ts.map
+¦   ¦   ¦   ¦   ¦       RequestParameterBuilder.mjs
+¦   ¦   ¦   ¦   ¦       RequestParameterBuilder.mjs.map
+¦   ¦   ¦   ¦   ¦       ScopeSet.d.ts
+¦   ¦   ¦   ¦   ¦       ScopeSet.d.ts.map
+¦   ¦   ¦   ¦   ¦       ScopeSet.mjs
+¦   ¦   ¦   ¦   ¦       ScopeSet.mjs.map
+¦   ¦   ¦   ¦   ¦       StoreInCache.d.ts
+¦   ¦   ¦   ¦   ¦       StoreInCache.d.ts.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---response
+¦   ¦   ¦   ¦   ¦       AuthenticationResult.d.ts
+¦   ¦   ¦   ¦   ¦       AuthenticationResult.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorizationCodePayload.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorizationCodePayload.d.ts.map
+¦   ¦   ¦   ¦   ¦       AuthorizeResponse.d.ts
+¦   ¦   ¦   ¦   ¦       AuthorizeResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       DeviceCodeResponse.d.ts
+¦   ¦   ¦   ¦   ¦       DeviceCodeResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       ExternalTokenResponse.d.ts
+¦   ¦   ¦   ¦   ¦       ExternalTokenResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       IMDSBadResponse.d.ts
+¦   ¦   ¦   ¦   ¦       IMDSBadResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       ResponseHandler.d.ts
+¦   ¦   ¦   ¦   ¦       ResponseHandler.d.ts.map
+¦   ¦   ¦   ¦   ¦       ResponseHandler.mjs
+¦   ¦   ¦   ¦   ¦       ResponseHandler.mjs.map
+¦   ¦   ¦   ¦   ¦       ServerAuthorizationTokenResponse.d.ts
+¦   ¦   ¦   ¦   ¦       ServerAuthorizationTokenResponse.d.ts.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---telemetry
+¦   ¦   ¦   ¦   ¦   +---performance
+¦   ¦   ¦   ¦   ¦   ¦       IPerformanceClient.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       IPerformanceClient.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       IPerformanceMeasurement.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       IPerformanceMeasurement.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceClient.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceClient.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceClient.mjs
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceClient.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvent.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvent.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvent.mjs
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvent.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvents.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvents.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvents.mjs
+¦   ¦   ¦   ¦   ¦   ¦       PerformanceEvents.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       StubPerformanceClient.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       StubPerformanceClient.d.ts.map
+¦   ¦   ¦   ¦   ¦   ¦       StubPerformanceClient.mjs
+¦   ¦   ¦   ¦   ¦   ¦       StubPerformanceClient.mjs.map
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---server
+¦   ¦   ¦   ¦   ¦           ServerTelemetryManager.d.ts
+¦   ¦   ¦   ¦   ¦           ServerTelemetryManager.d.ts.map
+¦   ¦   ¦   ¦   ¦           ServerTelemetryManager.mjs
+¦   ¦   ¦   ¦   ¦           ServerTelemetryManager.mjs.map
+¦   ¦   ¦   ¦   ¦           ServerTelemetryRequest.d.ts
+¦   ¦   ¦   ¦   ¦           ServerTelemetryRequest.d.ts.map
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---url
+¦   ¦   ¦   ¦   ¦       IUri.d.ts
+¦   ¦   ¦   ¦   ¦       IUri.d.ts.map
+¦   ¦   ¦   ¦   ¦       UrlString.d.ts
+¦   ¦   ¦   ¦   ¦       UrlString.d.ts.map
+¦   ¦   ¦   ¦   ¦       UrlString.mjs
+¦   ¦   ¦   ¦   ¦       UrlString.mjs.map
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦           ClientAssertionUtils.d.ts
+¦   ¦   ¦   ¦           ClientAssertionUtils.d.ts.map
+¦   ¦   ¦   ¦           ClientAssertionUtils.mjs
+¦   ¦   ¦   ¦           ClientAssertionUtils.mjs.map
+¦   ¦   ¦   ¦           Constants.d.ts
+¦   ¦   ¦   ¦           Constants.d.ts.map
+¦   ¦   ¦   ¦           Constants.mjs
+¦   ¦   ¦   ¦           Constants.mjs.map
+¦   ¦   ¦   ¦           FunctionWrappers.d.ts
+¦   ¦   ¦   ¦           FunctionWrappers.d.ts.map
+¦   ¦   ¦   ¦           FunctionWrappers.mjs
+¦   ¦   ¦   ¦           FunctionWrappers.mjs.map
+¦   ¦   ¦   ¦           MsalTypes.d.ts
+¦   ¦   ¦   ¦           MsalTypes.d.ts.map
+¦   ¦   ¦   ¦           ProtocolUtils.d.ts
+¦   ¦   ¦   ¦           ProtocolUtils.d.ts.map
+¦   ¦   ¦   ¦           ProtocolUtils.mjs
+¦   ¦   ¦   ¦           ProtocolUtils.mjs.map
+¦   ¦   ¦   ¦           StateTypes.d.ts
+¦   ¦   ¦   ¦           StateTypes.d.ts.map
+¦   ¦   ¦   ¦           StringUtils.d.ts
+¦   ¦   ¦   ¦           StringUtils.d.ts.map
+¦   ¦   ¦   ¦           StringUtils.mjs
+¦   ¦   ¦   ¦           StringUtils.mjs.map
+¦   ¦   ¦   ¦           TimeUtils.d.ts
+¦   ¦   ¦   ¦           TimeUtils.d.ts.map
+¦   ¦   ¦   ¦           TimeUtils.mjs
+¦   ¦   ¦   ¦           TimeUtils.mjs.map
+¦   ¦   ¦   ¦           UrlUtils.d.ts
+¦   ¦   ¦   ¦           UrlUtils.d.ts.map
+¦   ¦   ¦   ¦           UrlUtils.mjs
+¦   ¦   ¦   ¦           UrlUtils.mjs.map
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---lib
+¦   ¦   ¦   ¦   ¦   index-browser.cjs
+¦   ¦   ¦   ¦   ¦   index-browser.cjs.map
+¦   ¦   ¦   ¦   ¦   index-node-D4X95vlY.js
+¦   ¦   ¦   ¦   ¦   index-node-D4X95vlY.js.map
+¦   ¦   ¦   ¦   ¦   index-node.cjs
+¦   ¦   ¦   ¦   ¦   index-node.cjs.map
+¦   ¦   ¦   ¦   ¦   index.cjs
+¦   ¦   ¦   ¦   ¦   index.cjs.map
+¦   ¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦       ¦   exports-browser-only.d.ts
+¦   ¦   ¦   ¦       ¦   exports-browser-only.d.ts.map
+¦   ¦   ¦   ¦       ¦   exports-common.d.ts
+¦   ¦   ¦   ¦       ¦   exports-common.d.ts.map
+¦   ¦   ¦   ¦       ¦   exports-node-only.d.ts
+¦   ¦   ¦   ¦       ¦   exports-node-only.d.ts.map
+¦   ¦   ¦   ¦       ¦   index-browser.d.ts
+¦   ¦   ¦   ¦       ¦   index-browser.d.ts.map
+¦   ¦   ¦   ¦       ¦   index-node.d.ts
+¦   ¦   ¦   ¦       ¦   index-node.d.ts.map
+¦   ¦   ¦   ¦       ¦   index.d.ts
+¦   ¦   ¦   ¦       ¦   index.d.ts.map
+¦   ¦   ¦   ¦       ¦   packageMetadata.d.ts
+¦   ¦   ¦   ¦       ¦   packageMetadata.d.ts.map
+¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦       +---account
+¦   ¦   ¦   ¦       ¦       AccountInfo.d.ts
+¦   ¦   ¦   ¦       ¦       AccountInfo.d.ts.map
+¦   ¦   ¦   ¦       ¦       AuthToken.d.ts
+¦   ¦   ¦   ¦       ¦       AuthToken.d.ts.map
+¦   ¦   ¦   ¦       ¦       CcsCredential.d.ts
+¦   ¦   ¦   ¦       ¦       CcsCredential.d.ts.map
+¦   ¦   ¦   ¦       ¦       ClientCredentials.d.ts
+¦   ¦   ¦   ¦       ¦       ClientCredentials.d.ts.map
+¦   ¦   ¦   ¦       ¦       ClientInfo.d.ts
+¦   ¦   ¦   ¦       ¦       ClientInfo.d.ts.map
+¦   ¦   ¦   ¦       ¦       TokenClaims.d.ts
+¦   ¦   ¦   ¦       ¦       TokenClaims.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---authority
+¦   ¦   ¦   ¦       ¦       Authority.d.ts
+¦   ¦   ¦   ¦       ¦       Authority.d.ts.map
+¦   ¦   ¦   ¦       ¦       AuthorityFactory.d.ts
+¦   ¦   ¦   ¦       ¦       AuthorityFactory.d.ts.map
+¦   ¦   ¦   ¦       ¦       AuthorityMetadata.d.ts
+¦   ¦   ¦   ¦       ¦       AuthorityMetadata.d.ts.map
+¦   ¦   ¦   ¦       ¦       AuthorityOptions.d.ts
+¦   ¦   ¦   ¦       ¦       AuthorityOptions.d.ts.map
+¦   ¦   ¦   ¦       ¦       AuthorityType.d.ts
+¦   ¦   ¦   ¦       ¦       AuthorityType.d.ts.map
+¦   ¦   ¦   ¦       ¦       AzureRegion.d.ts
+¦   ¦   ¦   ¦       ¦       AzureRegion.d.ts.map
+¦   ¦   ¦   ¦       ¦       AzureRegionConfiguration.d.ts
+¦   ¦   ¦   ¦       ¦       AzureRegionConfiguration.d.ts.map
+¦   ¦   ¦   ¦       ¦       CloudDiscoveryMetadata.d.ts
+¦   ¦   ¦   ¦       ¦       CloudDiscoveryMetadata.d.ts.map
+¦   ¦   ¦   ¦       ¦       CloudInstanceDiscoveryErrorResponse.d.ts
+¦   ¦   ¦   ¦       ¦       CloudInstanceDiscoveryErrorResponse.d.ts.map
+¦   ¦   ¦   ¦       ¦       CloudInstanceDiscoveryResponse.d.ts
+¦   ¦   ¦   ¦       ¦       CloudInstanceDiscoveryResponse.d.ts.map
+¦   ¦   ¦   ¦       ¦       ImdsOptions.d.ts
+¦   ¦   ¦   ¦       ¦       ImdsOptions.d.ts.map
+¦   ¦   ¦   ¦       ¦       OIDCOptions.d.ts
+¦   ¦   ¦   ¦       ¦       OIDCOptions.d.ts.map
+¦   ¦   ¦   ¦       ¦       OpenIdConfigResponse.d.ts
+¦   ¦   ¦   ¦       ¦       OpenIdConfigResponse.d.ts.map
+¦   ¦   ¦   ¦       ¦       ProtocolMode.d.ts
+¦   ¦   ¦   ¦       ¦       ProtocolMode.d.ts.map
+¦   ¦   ¦   ¦       ¦       RegionDiscovery.d.ts
+¦   ¦   ¦   ¦       ¦       RegionDiscovery.d.ts.map
+¦   ¦   ¦   ¦       ¦       RegionDiscoveryMetadata.d.ts
+¦   ¦   ¦   ¦       ¦       RegionDiscoveryMetadata.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---broker
+¦   ¦   ¦   ¦       ¦   +---nativeBroker
+¦   ¦   ¦   ¦       ¦           INativeBrokerPlugin.d.ts
+¦   ¦   ¦   ¦       ¦           INativeBrokerPlugin.d.ts.map
+¦   ¦   ¦   ¦       ¦           
+¦   ¦   ¦   ¦       +---cache
+¦   ¦   ¦   ¦       ¦   ¦   CacheManager.d.ts
+¦   ¦   ¦   ¦       ¦   ¦   CacheManager.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦   ¦       ¦   +---entities
+¦   ¦   ¦   ¦       ¦   ¦       AccessTokenEntity.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       AccessTokenEntity.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       AccountEntity.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       AccountEntity.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       AppMetadataEntity.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       AppMetadataEntity.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       AuthorityMetadataEntity.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       AuthorityMetadataEntity.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       CacheRecord.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       CacheRecord.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       CredentialEntity.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       CredentialEntity.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       IdTokenEntity.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       IdTokenEntity.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       RefreshTokenEntity.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       RefreshTokenEntity.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       ServerTelemetryEntity.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       ServerTelemetryEntity.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       ThrottlingEntity.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       ThrottlingEntity.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦   ¦       ¦   +---interface
+¦   ¦   ¦   ¦       ¦   ¦       ICacheManager.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       ICacheManager.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       ICachePlugin.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       ICachePlugin.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       ISerializableTokenCache.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       ISerializableTokenCache.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦   ¦       ¦   +---persistence
+¦   ¦   ¦   ¦       ¦   ¦       TokenCacheContext.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       TokenCacheContext.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦   ¦       ¦           AccountEntityUtils.d.ts
+¦   ¦   ¦   ¦       ¦           AccountEntityUtils.d.ts.map
+¦   ¦   ¦   ¦       ¦           CacheHelpers.d.ts
+¦   ¦   ¦   ¦       ¦           CacheHelpers.d.ts.map
+¦   ¦   ¦   ¦       ¦           CacheTypes.d.ts
+¦   ¦   ¦   ¦       ¦           CacheTypes.d.ts.map
+¦   ¦   ¦   ¦       ¦           
+¦   ¦   ¦   ¦       +---client
+¦   ¦   ¦   ¦       ¦       AuthorizationCodeClient.d.ts
+¦   ¦   ¦   ¦       ¦       AuthorizationCodeClient.d.ts.map
+¦   ¦   ¦   ¦       ¦       RefreshTokenClient.d.ts
+¦   ¦   ¦   ¦       ¦       RefreshTokenClient.d.ts.map
+¦   ¦   ¦   ¦       ¦       SilentFlowClient.d.ts
+¦   ¦   ¦   ¦       ¦       SilentFlowClient.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---config
+¦   ¦   ¦   ¦       ¦       AppTokenProvider.d.ts
+¦   ¦   ¦   ¦       ¦       AppTokenProvider.d.ts.map
+¦   ¦   ¦   ¦       ¦       ClientConfiguration.d.ts
+¦   ¦   ¦   ¦       ¦       ClientConfiguration.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---constants
+¦   ¦   ¦   ¦       ¦       AADServerParamKeys.d.ts
+¦   ¦   ¦   ¦       ¦       AADServerParamKeys.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---crypto
+¦   ¦   ¦   ¦       ¦       ICrypto.d.ts
+¦   ¦   ¦   ¦       ¦       ICrypto.d.ts.map
+¦   ¦   ¦   ¦       ¦       IGuidGenerator.d.ts
+¦   ¦   ¦   ¦       ¦       IGuidGenerator.d.ts.map
+¦   ¦   ¦   ¦       ¦       JoseHeader.d.ts
+¦   ¦   ¦   ¦       ¦       JoseHeader.d.ts.map
+¦   ¦   ¦   ¦       ¦       PopTokenGenerator.d.ts
+¦   ¦   ¦   ¦       ¦       PopTokenGenerator.d.ts.map
+¦   ¦   ¦   ¦       ¦       SignedHttpRequest.d.ts
+¦   ¦   ¦   ¦       ¦       SignedHttpRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---error
+¦   ¦   ¦   ¦       ¦       AuthError.d.ts
+¦   ¦   ¦   ¦       ¦       AuthError.d.ts.map
+¦   ¦   ¦   ¦       ¦       AuthErrorCodes.d.ts
+¦   ¦   ¦   ¦       ¦       AuthErrorCodes.d.ts.map
+¦   ¦   ¦   ¦       ¦       CacheError.d.ts
+¦   ¦   ¦   ¦       ¦       CacheError.d.ts.map
+¦   ¦   ¦   ¦       ¦       CacheErrorCodes.d.ts
+¦   ¦   ¦   ¦       ¦       CacheErrorCodes.d.ts.map
+¦   ¦   ¦   ¦       ¦       ClientAuthError.d.ts
+¦   ¦   ¦   ¦       ¦       ClientAuthError.d.ts.map
+¦   ¦   ¦   ¦       ¦       ClientAuthErrorCodes.d.ts
+¦   ¦   ¦   ¦       ¦       ClientAuthErrorCodes.d.ts.map
+¦   ¦   ¦   ¦       ¦       ClientConfigurationError.d.ts
+¦   ¦   ¦   ¦       ¦       ClientConfigurationError.d.ts.map
+¦   ¦   ¦   ¦       ¦       ClientConfigurationErrorCodes.d.ts
+¦   ¦   ¦   ¦       ¦       ClientConfigurationErrorCodes.d.ts.map
+¦   ¦   ¦   ¦       ¦       InteractionRequiredAuthError.d.ts
+¦   ¦   ¦   ¦       ¦       InteractionRequiredAuthError.d.ts.map
+¦   ¦   ¦   ¦       ¦       InteractionRequiredAuthErrorCodes.d.ts
+¦   ¦   ¦   ¦       ¦       InteractionRequiredAuthErrorCodes.d.ts.map
+¦   ¦   ¦   ¦       ¦       JoseHeaderError.d.ts
+¦   ¦   ¦   ¦       ¦       JoseHeaderError.d.ts.map
+¦   ¦   ¦   ¦       ¦       JoseHeaderErrorCodes.d.ts
+¦   ¦   ¦   ¦       ¦       JoseHeaderErrorCodes.d.ts.map
+¦   ¦   ¦   ¦       ¦       NetworkError.d.ts
+¦   ¦   ¦   ¦       ¦       NetworkError.d.ts.map
+¦   ¦   ¦   ¦       ¦       PlatformBrokerError.d.ts
+¦   ¦   ¦   ¦       ¦       PlatformBrokerError.d.ts.map
+¦   ¦   ¦   ¦       ¦       ServerError.d.ts
+¦   ¦   ¦   ¦       ¦       ServerError.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---logger
+¦   ¦   ¦   ¦       ¦       Logger.d.ts
+¦   ¦   ¦   ¦       ¦       Logger.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---network
+¦   ¦   ¦   ¦       ¦       INetworkModule.d.ts
+¦   ¦   ¦   ¦       ¦       INetworkModule.d.ts.map
+¦   ¦   ¦   ¦       ¦       NetworkResponse.d.ts
+¦   ¦   ¦   ¦       ¦       NetworkResponse.d.ts.map
+¦   ¦   ¦   ¦       ¦       RequestThumbprint.d.ts
+¦   ¦   ¦   ¦       ¦       RequestThumbprint.d.ts.map
+¦   ¦   ¦   ¦       ¦       ThrottlingUtils.d.ts
+¦   ¦   ¦   ¦       ¦       ThrottlingUtils.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---protocol
+¦   ¦   ¦   ¦       ¦       Authorize.d.ts
+¦   ¦   ¦   ¦       ¦       Authorize.d.ts.map
+¦   ¦   ¦   ¦       ¦       Token.d.ts
+¦   ¦   ¦   ¦       ¦       Token.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---request
+¦   ¦   ¦   ¦       ¦       AuthenticationHeaderParser.d.ts
+¦   ¦   ¦   ¦       ¦       AuthenticationHeaderParser.d.ts.map
+¦   ¦   ¦   ¦       ¦       BaseAuthRequest.d.ts
+¦   ¦   ¦   ¦       ¦       BaseAuthRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦       CommonAuthorizationCodeRequest.d.ts
+¦   ¦   ¦   ¦       ¦       CommonAuthorizationCodeRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦       CommonAuthorizationUrlRequest.d.ts
+¦   ¦   ¦   ¦       ¦       CommonAuthorizationUrlRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦       CommonEndSessionRequest.d.ts
+¦   ¦   ¦   ¦       ¦       CommonEndSessionRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦       CommonRefreshTokenRequest.d.ts
+¦   ¦   ¦   ¦       ¦       CommonRefreshTokenRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦       CommonSilentFlowRequest.d.ts
+¦   ¦   ¦   ¦       ¦       CommonSilentFlowRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦       NativeRequest.d.ts
+¦   ¦   ¦   ¦       ¦       NativeRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦       NativeSignOutRequest.d.ts
+¦   ¦   ¦   ¦       ¦       NativeSignOutRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦       RequestParameterBuilder.d.ts
+¦   ¦   ¦   ¦       ¦       RequestParameterBuilder.d.ts.map
+¦   ¦   ¦   ¦       ¦       ScopeSet.d.ts
+¦   ¦   ¦   ¦       ¦       ScopeSet.d.ts.map
+¦   ¦   ¦   ¦       ¦       StoreInCache.d.ts
+¦   ¦   ¦   ¦       ¦       StoreInCache.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---response
+¦   ¦   ¦   ¦       ¦       AuthenticationResult.d.ts
+¦   ¦   ¦   ¦       ¦       AuthenticationResult.d.ts.map
+¦   ¦   ¦   ¦       ¦       AuthorizationCodePayload.d.ts
+¦   ¦   ¦   ¦       ¦       AuthorizationCodePayload.d.ts.map
+¦   ¦   ¦   ¦       ¦       AuthorizeResponse.d.ts
+¦   ¦   ¦   ¦       ¦       AuthorizeResponse.d.ts.map
+¦   ¦   ¦   ¦       ¦       DeviceCodeResponse.d.ts
+¦   ¦   ¦   ¦       ¦       DeviceCodeResponse.d.ts.map
+¦   ¦   ¦   ¦       ¦       ExternalTokenResponse.d.ts
+¦   ¦   ¦   ¦       ¦       ExternalTokenResponse.d.ts.map
+¦   ¦   ¦   ¦       ¦       IMDSBadResponse.d.ts
+¦   ¦   ¦   ¦       ¦       IMDSBadResponse.d.ts.map
+¦   ¦   ¦   ¦       ¦       ResponseHandler.d.ts
+¦   ¦   ¦   ¦       ¦       ResponseHandler.d.ts.map
+¦   ¦   ¦   ¦       ¦       ServerAuthorizationTokenResponse.d.ts
+¦   ¦   ¦   ¦       ¦       ServerAuthorizationTokenResponse.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---telemetry
+¦   ¦   ¦   ¦       ¦   +---performance
+¦   ¦   ¦   ¦       ¦   ¦       IPerformanceClient.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       IPerformanceClient.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       IPerformanceMeasurement.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       IPerformanceMeasurement.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       PerformanceClient.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       PerformanceClient.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       PerformanceEvent.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       PerformanceEvent.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       PerformanceEvents.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       PerformanceEvents.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       StubPerformanceClient.d.ts
+¦   ¦   ¦   ¦       ¦   ¦       StubPerformanceClient.d.ts.map
+¦   ¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦   ¦       ¦   +---server
+¦   ¦   ¦   ¦       ¦           ServerTelemetryManager.d.ts
+¦   ¦   ¦   ¦       ¦           ServerTelemetryManager.d.ts.map
+¦   ¦   ¦   ¦       ¦           ServerTelemetryRequest.d.ts
+¦   ¦   ¦   ¦       ¦           ServerTelemetryRequest.d.ts.map
+¦   ¦   ¦   ¦       ¦           
+¦   ¦   ¦   ¦       +---url
+¦   ¦   ¦   ¦       ¦       IUri.d.ts
+¦   ¦   ¦   ¦       ¦       IUri.d.ts.map
+¦   ¦   ¦   ¦       ¦       UrlString.d.ts
+¦   ¦   ¦   ¦       ¦       UrlString.d.ts.map
+¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦       +---utils
+¦   ¦   ¦   ¦               ClientAssertionUtils.d.ts
+¦   ¦   ¦   ¦               ClientAssertionUtils.d.ts.map
+¦   ¦   ¦   ¦               Constants.d.ts
+¦   ¦   ¦   ¦               Constants.d.ts.map
+¦   ¦   ¦   ¦               FunctionWrappers.d.ts
+¦   ¦   ¦   ¦               FunctionWrappers.d.ts.map
+¦   ¦   ¦   ¦               MsalTypes.d.ts
+¦   ¦   ¦   ¦               MsalTypes.d.ts.map
+¦   ¦   ¦   ¦               ProtocolUtils.d.ts
+¦   ¦   ¦   ¦               ProtocolUtils.d.ts.map
+¦   ¦   ¦   ¦               StateTypes.d.ts
+¦   ¦   ¦   ¦               StateTypes.d.ts.map
+¦   ¦   ¦   ¦               StringUtils.d.ts
+¦   ¦   ¦   ¦               StringUtils.d.ts.map
+¦   ¦   ¦   ¦               TimeUtils.d.ts
+¦   ¦   ¦   ¦               TimeUtils.d.ts.map
+¦   ¦   ¦   ¦               UrlUtils.d.ts
+¦   ¦   ¦   ¦               UrlUtils.d.ts.map
+¦   ¦   ¦   ¦               
+¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦       package.json
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---src
+¦   ¦   ¦       ¦   exports-browser-only.ts
+¦   ¦   ¦       ¦   exports-common.ts
+¦   ¦   ¦       ¦   exports-node-only.ts
+¦   ¦   ¦       ¦   index-browser.ts
+¦   ¦   ¦       ¦   index-node.ts
+¦   ¦   ¦       ¦   index.ts
+¦   ¦   ¦       ¦   packageMetadata.ts
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---account
+¦   ¦   ¦       ¦       AccountInfo.ts
+¦   ¦   ¦       ¦       AuthToken.ts
+¦   ¦   ¦       ¦       CcsCredential.ts
+¦   ¦   ¦       ¦       ClientCredentials.ts
+¦   ¦   ¦       ¦       ClientInfo.ts
+¦   ¦   ¦       ¦       TokenClaims.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---authority
+¦   ¦   ¦       ¦       Authority.ts
+¦   ¦   ¦       ¦       AuthorityFactory.ts
+¦   ¦   ¦       ¦       AuthorityMetadata.ts
+¦   ¦   ¦       ¦       AuthorityOptions.ts
+¦   ¦   ¦       ¦       AuthorityType.ts
+¦   ¦   ¦       ¦       AzureRegion.ts
+¦   ¦   ¦       ¦       AzureRegionConfiguration.ts
+¦   ¦   ¦       ¦       CloudDiscoveryMetadata.ts
+¦   ¦   ¦       ¦       CloudInstanceDiscoveryErrorResponse.ts
+¦   ¦   ¦       ¦       CloudInstanceDiscoveryResponse.ts
+¦   ¦   ¦       ¦       ImdsOptions.ts
+¦   ¦   ¦       ¦       OIDCOptions.ts
+¦   ¦   ¦       ¦       OpenIdConfigResponse.ts
+¦   ¦   ¦       ¦       ProtocolMode.ts
+¦   ¦   ¦       ¦       RegionDiscovery.ts
+¦   ¦   ¦       ¦       RegionDiscoveryMetadata.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---broker
+¦   ¦   ¦       ¦   +---nativeBroker
+¦   ¦   ¦       ¦           INativeBrokerPlugin.ts
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---cache
+¦   ¦   ¦       ¦   ¦   CacheManager.ts
+¦   ¦   ¦       ¦   ¦   
+¦   ¦   ¦       ¦   +---entities
+¦   ¦   ¦       ¦   ¦       AccessTokenEntity.ts
+¦   ¦   ¦       ¦   ¦       AccountEntity.ts
+¦   ¦   ¦       ¦   ¦       AppMetadataEntity.ts
+¦   ¦   ¦       ¦   ¦       AuthorityMetadataEntity.ts
+¦   ¦   ¦       ¦   ¦       CacheRecord.ts
+¦   ¦   ¦       ¦   ¦       CredentialEntity.ts
+¦   ¦   ¦       ¦   ¦       IdTokenEntity.ts
+¦   ¦   ¦       ¦   ¦       RefreshTokenEntity.ts
+¦   ¦   ¦       ¦   ¦       ServerTelemetryEntity.ts
+¦   ¦   ¦       ¦   ¦       ThrottlingEntity.ts
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---interface
+¦   ¦   ¦       ¦   ¦       ICacheManager.ts
+¦   ¦   ¦       ¦   ¦       ICachePlugin.ts
+¦   ¦   ¦       ¦   ¦       ISerializableTokenCache.ts
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---persistence
+¦   ¦   ¦       ¦   ¦       TokenCacheContext.ts
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---utils
+¦   ¦   ¦       ¦           AccountEntityUtils.ts
+¦   ¦   ¦       ¦           CacheHelpers.ts
+¦   ¦   ¦       ¦           CacheTypes.ts
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---client
+¦   ¦   ¦       ¦       AuthorizationCodeClient.ts
+¦   ¦   ¦       ¦       RefreshTokenClient.ts
+¦   ¦   ¦       ¦       SilentFlowClient.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---config
+¦   ¦   ¦       ¦       AppTokenProvider.ts
+¦   ¦   ¦       ¦       ClientConfiguration.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---constants
+¦   ¦   ¦       ¦       AADServerParamKeys.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---crypto
+¦   ¦   ¦       ¦       ICrypto.ts
+¦   ¦   ¦       ¦       IGuidGenerator.ts
+¦   ¦   ¦       ¦       JoseHeader.ts
+¦   ¦   ¦       ¦       PopTokenGenerator.ts
+¦   ¦   ¦       ¦       SignedHttpRequest.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---error
+¦   ¦   ¦       ¦       AuthError.ts
+¦   ¦   ¦       ¦       AuthErrorCodes.ts
+¦   ¦   ¦       ¦       CacheError.ts
+¦   ¦   ¦       ¦       CacheErrorCodes.ts
+¦   ¦   ¦       ¦       ClientAuthError.ts
+¦   ¦   ¦       ¦       ClientAuthErrorCodes.ts
+¦   ¦   ¦       ¦       ClientConfigurationError.ts
+¦   ¦   ¦       ¦       ClientConfigurationErrorCodes.ts
+¦   ¦   ¦       ¦       InteractionRequiredAuthError.ts
+¦   ¦   ¦       ¦       InteractionRequiredAuthErrorCodes.ts
+¦   ¦   ¦       ¦       JoseHeaderError.ts
+¦   ¦   ¦       ¦       JoseHeaderErrorCodes.ts
+¦   ¦   ¦       ¦       NetworkError.ts
+¦   ¦   ¦       ¦       PlatformBrokerError.ts
+¦   ¦   ¦       ¦       ServerError.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---logger
+¦   ¦   ¦       ¦       Logger.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---network
+¦   ¦   ¦       ¦       INetworkModule.ts
+¦   ¦   ¦       ¦       NetworkResponse.ts
+¦   ¦   ¦       ¦       RequestThumbprint.ts
+¦   ¦   ¦       ¦       ThrottlingUtils.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---protocol
+¦   ¦   ¦       ¦       Authorize.ts
+¦   ¦   ¦       ¦       Token.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---request
+¦   ¦   ¦       ¦       AuthenticationHeaderParser.ts
+¦   ¦   ¦       ¦       BaseAuthRequest.ts
+¦   ¦   ¦       ¦       CommonAuthorizationCodeRequest.ts
+¦   ¦   ¦       ¦       CommonAuthorizationUrlRequest.ts
+¦   ¦   ¦       ¦       CommonEndSessionRequest.ts
+¦   ¦   ¦       ¦       CommonRefreshTokenRequest.ts
+¦   ¦   ¦       ¦       CommonSilentFlowRequest.ts
+¦   ¦   ¦       ¦       NativeRequest.ts
+¦   ¦   ¦       ¦       NativeSignOutRequest.ts
+¦   ¦   ¦       ¦       RequestParameterBuilder.ts
+¦   ¦   ¦       ¦       ScopeSet.ts
+¦   ¦   ¦       ¦       StoreInCache.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---response
+¦   ¦   ¦       ¦       AuthenticationResult.ts
+¦   ¦   ¦       ¦       AuthorizationCodePayload.ts
+¦   ¦   ¦       ¦       AuthorizeResponse.ts
+¦   ¦   ¦       ¦       DeviceCodeResponse.ts
+¦   ¦   ¦       ¦       ExternalTokenResponse.ts
+¦   ¦   ¦       ¦       IMDSBadResponse.ts
+¦   ¦   ¦       ¦       ResponseHandler.ts
+¦   ¦   ¦       ¦       ServerAuthorizationTokenResponse.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---telemetry
+¦   ¦   ¦       ¦   +---performance
+¦   ¦   ¦       ¦   ¦       IPerformanceClient.ts
+¦   ¦   ¦       ¦   ¦       IPerformanceMeasurement.ts
+¦   ¦   ¦       ¦   ¦       PerformanceClient.ts
+¦   ¦   ¦       ¦   ¦       PerformanceEvent.ts
+¦   ¦   ¦       ¦   ¦       PerformanceEvents.ts
+¦   ¦   ¦       ¦   ¦       StubPerformanceClient.ts
+¦   ¦   ¦       ¦   ¦       
+¦   ¦   ¦       ¦   +---server
+¦   ¦   ¦       ¦           ServerTelemetryManager.ts
+¦   ¦   ¦       ¦           ServerTelemetryRequest.ts
+¦   ¦   ¦       ¦           
+¦   ¦   ¦       +---url
+¦   ¦   ¦       ¦       IUri.ts
+¦   ¦   ¦       ¦       UrlString.ts
+¦   ¦   ¦       ¦       
+¦   ¦   ¦       +---utils
+¦   ¦   ¦               ClientAssertionUtils.ts
+¦   ¦   ¦               Constants.ts
+¦   ¦   ¦               FunctionWrappers.ts
+¦   ¦   ¦               MsalTypes.ts
+¦   ¦   ¦               ProtocolUtils.ts
+¦   ¦   ¦               StateTypes.ts
+¦   ¦   ¦               StringUtils.ts
+¦   ¦   ¦               TimeUtils.ts
+¦   ¦   ¦               UrlUtils.ts
+¦   ¦   ¦               
+¦   ¦   +---msal-node
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---dist
+¦   ¦       ¦   ¦   index.d.ts
+¦   ¦       ¦   ¦   index.d.ts.map
+¦   ¦       ¦   ¦   index.mjs
+¦   ¦       ¦   ¦   index.mjs.map
+¦   ¦       ¦   ¦   internals.d.ts
+¦   ¦       ¦   ¦   internals.d.ts.map
+¦   ¦       ¦   ¦   internals.mjs
+¦   ¦       ¦   ¦   internals.mjs.map
+¦   ¦       ¦   ¦   packageMetadata.d.ts
+¦   ¦       ¦   ¦   packageMetadata.d.ts.map
+¦   ¦       ¦   ¦   packageMetadata.mjs
+¦   ¦       ¦   ¦   packageMetadata.mjs.map
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---cache
+¦   ¦       ¦   ¦   ¦   CacheHelpers.d.ts
+¦   ¦       ¦   ¦   ¦   CacheHelpers.d.ts.map
+¦   ¦       ¦   ¦   ¦   CacheHelpers.mjs
+¦   ¦       ¦   ¦   ¦   CacheHelpers.mjs.map
+¦   ¦       ¦   ¦   ¦   ITokenCache.d.ts
+¦   ¦       ¦   ¦   ¦   ITokenCache.d.ts.map
+¦   ¦       ¦   ¦   ¦   NodeStorage.d.ts
+¦   ¦       ¦   ¦   ¦   NodeStorage.d.ts.map
+¦   ¦       ¦   ¦   ¦   NodeStorage.mjs
+¦   ¦       ¦   ¦   ¦   NodeStorage.mjs.map
+¦   ¦       ¦   ¦   ¦   TokenCache.d.ts
+¦   ¦       ¦   ¦   ¦   TokenCache.d.ts.map
+¦   ¦       ¦   ¦   ¦   TokenCache.mjs
+¦   ¦       ¦   ¦   ¦   TokenCache.mjs.map
+¦   ¦       ¦   ¦   ¦   
+¦   ¦       ¦   ¦   +---distributed
+¦   ¦       ¦   ¦   ¦       DistributedCachePlugin.d.ts
+¦   ¦       ¦   ¦   ¦       DistributedCachePlugin.d.ts.map
+¦   ¦       ¦   ¦   ¦       DistributedCachePlugin.mjs
+¦   ¦       ¦   ¦   ¦       DistributedCachePlugin.mjs.map
+¦   ¦       ¦   ¦   ¦       ICacheClient.d.ts
+¦   ¦       ¦   ¦   ¦       ICacheClient.d.ts.map
+¦   ¦       ¦   ¦   ¦       IPartitionManager.d.ts
+¦   ¦       ¦   ¦   ¦       IPartitionManager.d.ts.map
+¦   ¦       ¦   ¦   ¦       
+¦   ¦       ¦   ¦   +---serializer
+¦   ¦       ¦   ¦           Deserializer.d.ts
+¦   ¦       ¦   ¦           Deserializer.d.ts.map
+¦   ¦       ¦   ¦           Deserializer.mjs
+¦   ¦       ¦   ¦           Deserializer.mjs.map
+¦   ¦       ¦   ¦           Serializer.d.ts
+¦   ¦       ¦   ¦           Serializer.d.ts.map
+¦   ¦       ¦   ¦           Serializer.mjs
+¦   ¦       ¦   ¦           Serializer.mjs.map
+¦   ¦       ¦   ¦           SerializerTypes.d.ts
+¦   ¦       ¦   ¦           SerializerTypes.d.ts.map
+¦   ¦       ¦   ¦           
+¦   ¦       ¦   +---client
+¦   ¦       ¦   ¦   ¦   BaseClient.d.ts
+¦   ¦       ¦   ¦   ¦   BaseClient.d.ts.map
+¦   ¦       ¦   ¦   ¦   BaseClient.mjs
+¦   ¦       ¦   ¦   ¦   BaseClient.mjs.map
+¦   ¦       ¦   ¦   ¦   ClientApplication.d.ts
+¦   ¦       ¦   ¦   ¦   ClientApplication.d.ts.map
+¦   ¦       ¦   ¦   ¦   ClientApplication.mjs
+¦   ¦       ¦   ¦   ¦   ClientApplication.mjs.map
+¦   ¦       ¦   ¦   ¦   ClientAssertion.d.ts
+¦   ¦       ¦   ¦   ¦   ClientAssertion.d.ts.map
+¦   ¦       ¦   ¦   ¦   ClientAssertion.mjs
+¦   ¦       ¦   ¦   ¦   ClientAssertion.mjs.map
+¦   ¦       ¦   ¦   ¦   ClientCredentialClient.d.ts
+¦   ¦       ¦   ¦   ¦   ClientCredentialClient.d.ts.map
+¦   ¦       ¦   ¦   ¦   ClientCredentialClient.mjs
+¦   ¦       ¦   ¦   ¦   ClientCredentialClient.mjs.map
+¦   ¦       ¦   ¦   ¦   ConfidentialClientApplication.d.ts
+¦   ¦       ¦   ¦   ¦   ConfidentialClientApplication.d.ts.map
+¦   ¦       ¦   ¦   ¦   ConfidentialClientApplication.mjs
+¦   ¦       ¦   ¦   ¦   ConfidentialClientApplication.mjs.map
+¦   ¦       ¦   ¦   ¦   DeviceCodeClient.d.ts
+¦   ¦       ¦   ¦   ¦   DeviceCodeClient.d.ts.map
+¦   ¦       ¦   ¦   ¦   DeviceCodeClient.mjs
+¦   ¦       ¦   ¦   ¦   DeviceCodeClient.mjs.map
+¦   ¦       ¦   ¦   ¦   IConfidentialClientApplication.d.ts
+¦   ¦       ¦   ¦   ¦   IConfidentialClientApplication.d.ts.map
+¦   ¦       ¦   ¦   ¦   IPublicClientApplication.d.ts
+¦   ¦       ¦   ¦   ¦   IPublicClientApplication.d.ts.map
+¦   ¦       ¦   ¦   ¦   ManagedIdentityApplication.d.ts
+¦   ¦       ¦   ¦   ¦   ManagedIdentityApplication.d.ts.map
+¦   ¦       ¦   ¦   ¦   ManagedIdentityApplication.mjs
+¦   ¦       ¦   ¦   ¦   ManagedIdentityApplication.mjs.map
+¦   ¦       ¦   ¦   ¦   ManagedIdentityClient.d.ts
+¦   ¦       ¦   ¦   ¦   ManagedIdentityClient.d.ts.map
+¦   ¦       ¦   ¦   ¦   ManagedIdentityClient.mjs
+¦   ¦       ¦   ¦   ¦   ManagedIdentityClient.mjs.map
+¦   ¦       ¦   ¦   ¦   OnBehalfOfClient.d.ts
+¦   ¦       ¦   ¦   ¦   OnBehalfOfClient.d.ts.map
+¦   ¦       ¦   ¦   ¦   OnBehalfOfClient.mjs
+¦   ¦       ¦   ¦   ¦   OnBehalfOfClient.mjs.map
+¦   ¦       ¦   ¦   ¦   PublicClientApplication.d.ts
+¦   ¦       ¦   ¦   ¦   PublicClientApplication.d.ts.map
+¦   ¦       ¦   ¦   ¦   PublicClientApplication.mjs
+¦   ¦       ¦   ¦   ¦   PublicClientApplication.mjs.map
+¦   ¦       ¦   ¦   ¦   UsernamePasswordClient.d.ts
+¦   ¦       ¦   ¦   ¦   UsernamePasswordClient.d.ts.map
+¦   ¦       ¦   ¦   ¦   UsernamePasswordClient.mjs
+¦   ¦       ¦   ¦   ¦   UsernamePasswordClient.mjs.map
+¦   ¦       ¦   ¦   ¦   
+¦   ¦       ¦   ¦   +---ManagedIdentitySources
+¦   ¦       ¦   ¦           AppService.d.ts
+¦   ¦       ¦   ¦           AppService.d.ts.map
+¦   ¦       ¦   ¦           AppService.mjs
+¦   ¦       ¦   ¦           AppService.mjs.map
+¦   ¦       ¦   ¦           AzureArc.d.ts
+¦   ¦       ¦   ¦           AzureArc.d.ts.map
+¦   ¦       ¦   ¦           AzureArc.mjs
+¦   ¦       ¦   ¦           AzureArc.mjs.map
+¦   ¦       ¦   ¦           BaseManagedIdentitySource.d.ts
+¦   ¦       ¦   ¦           BaseManagedIdentitySource.d.ts.map
+¦   ¦       ¦   ¦           BaseManagedIdentitySource.mjs
+¦   ¦       ¦   ¦           BaseManagedIdentitySource.mjs.map
+¦   ¦       ¦   ¦           CloudShell.d.ts
+¦   ¦       ¦   ¦           CloudShell.d.ts.map
+¦   ¦       ¦   ¦           CloudShell.mjs
+¦   ¦       ¦   ¦           CloudShell.mjs.map
+¦   ¦       ¦   ¦           Imds.d.ts
+¦   ¦       ¦   ¦           Imds.d.ts.map
+¦   ¦       ¦   ¦           Imds.mjs
+¦   ¦       ¦   ¦           Imds.mjs.map
+¦   ¦       ¦   ¦           MachineLearning.d.ts
+¦   ¦       ¦   ¦           MachineLearning.d.ts.map
+¦   ¦       ¦   ¦           MachineLearning.mjs
+¦   ¦       ¦   ¦           MachineLearning.mjs.map
+¦   ¦       ¦   ¦           ServiceFabric.d.ts
+¦   ¦       ¦   ¦           ServiceFabric.d.ts.map
+¦   ¦       ¦   ¦           ServiceFabric.mjs
+¦   ¦       ¦   ¦           ServiceFabric.mjs.map
+¦   ¦       ¦   ¦           
+¦   ¦       ¦   +---config
+¦   ¦       ¦   ¦       Configuration.d.ts
+¦   ¦       ¦   ¦       Configuration.d.ts.map
+¦   ¦       ¦   ¦       Configuration.mjs
+¦   ¦       ¦   ¦       Configuration.mjs.map
+¦   ¦       ¦   ¦       ManagedIdentityId.d.ts
+¦   ¦       ¦   ¦       ManagedIdentityId.d.ts.map
+¦   ¦       ¦   ¦       ManagedIdentityId.mjs
+¦   ¦       ¦   ¦       ManagedIdentityId.mjs.map
+¦   ¦       ¦   ¦       ManagedIdentityRequestParameters.d.ts
+¦   ¦       ¦   ¦       ManagedIdentityRequestParameters.d.ts.map
+¦   ¦       ¦   ¦       ManagedIdentityRequestParameters.mjs
+¦   ¦       ¦   ¦       ManagedIdentityRequestParameters.mjs.map
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---crypto
+¦   ¦       ¦   ¦       CryptoProvider.d.ts
+¦   ¦       ¦   ¦       CryptoProvider.d.ts.map
+¦   ¦       ¦   ¦       CryptoProvider.mjs
+¦   ¦       ¦   ¦       CryptoProvider.mjs.map
+¦   ¦       ¦   ¦       GuidGenerator.d.ts
+¦   ¦       ¦   ¦       GuidGenerator.d.ts.map
+¦   ¦       ¦   ¦       GuidGenerator.mjs
+¦   ¦       ¦   ¦       GuidGenerator.mjs.map
+¦   ¦       ¦   ¦       HashUtils.d.ts
+¦   ¦       ¦   ¦       HashUtils.d.ts.map
+¦   ¦       ¦   ¦       HashUtils.mjs
+¦   ¦       ¦   ¦       HashUtils.mjs.map
+¦   ¦       ¦   ¦       PkceGenerator.d.ts
+¦   ¦       ¦   ¦       PkceGenerator.d.ts.map
+¦   ¦       ¦   ¦       PkceGenerator.mjs
+¦   ¦       ¦   ¦       PkceGenerator.mjs.map
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---error
+¦   ¦       ¦   ¦       ClientAuthErrorCodes.d.ts
+¦   ¦       ¦   ¦       ClientAuthErrorCodes.d.ts.map
+¦   ¦       ¦   ¦       ClientAuthErrorCodes.mjs
+¦   ¦       ¦   ¦       ClientAuthErrorCodes.mjs.map
+¦   ¦       ¦   ¦       ManagedIdentityError.d.ts
+¦   ¦       ¦   ¦       ManagedIdentityError.d.ts.map
+¦   ¦       ¦   ¦       ManagedIdentityError.mjs
+¦   ¦       ¦   ¦       ManagedIdentityError.mjs.map
+¦   ¦       ¦   ¦       ManagedIdentityErrorCodes.d.ts
+¦   ¦       ¦   ¦       ManagedIdentityErrorCodes.d.ts.map
+¦   ¦       ¦   ¦       ManagedIdentityErrorCodes.mjs
+¦   ¦       ¦   ¦       ManagedIdentityErrorCodes.mjs.map
+¦   ¦       ¦   ¦       NodeAuthError.d.ts
+¦   ¦       ¦   ¦       NodeAuthError.d.ts.map
+¦   ¦       ¦   ¦       NodeAuthError.mjs
+¦   ¦       ¦   ¦       NodeAuthError.mjs.map
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---network
+¦   ¦       ¦   ¦       HttpClient.d.ts
+¦   ¦       ¦   ¦       HttpClient.d.ts.map
+¦   ¦       ¦   ¦       HttpClient.mjs
+¦   ¦       ¦   ¦       HttpClient.mjs.map
+¦   ¦       ¦   ¦       HttpClientWithRetries.d.ts
+¦   ¦       ¦   ¦       HttpClientWithRetries.d.ts.map
+¦   ¦       ¦   ¦       HttpClientWithRetries.mjs
+¦   ¦       ¦   ¦       HttpClientWithRetries.mjs.map
+¦   ¦       ¦   ¦       ILoopbackClient.d.ts
+¦   ¦       ¦   ¦       ILoopbackClient.d.ts.map
+¦   ¦       ¦   ¦       LoopbackClient.d.ts
+¦   ¦       ¦   ¦       LoopbackClient.d.ts.map
+¦   ¦       ¦   ¦       LoopbackClient.mjs
+¦   ¦       ¦   ¦       LoopbackClient.mjs.map
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---protocol
+¦   ¦       ¦   ¦       Authorize.d.ts
+¦   ¦       ¦   ¦       Authorize.d.ts.map
+¦   ¦       ¦   ¦       Authorize.mjs
+¦   ¦       ¦   ¦       Authorize.mjs.map
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---request
+¦   ¦       ¦   ¦       AuthorizationCodeRequest.d.ts
+¦   ¦       ¦   ¦       AuthorizationCodeRequest.d.ts.map
+¦   ¦       ¦   ¦       AuthorizationUrlRequest.d.ts
+¦   ¦       ¦   ¦       AuthorizationUrlRequest.d.ts.map
+¦   ¦       ¦   ¦       ClientCredentialRequest.d.ts
+¦   ¦       ¦   ¦       ClientCredentialRequest.d.ts.map
+¦   ¦       ¦   ¦       CommonClientCredentialRequest.d.ts
+¦   ¦       ¦   ¦       CommonClientCredentialRequest.d.ts.map
+¦   ¦       ¦   ¦       CommonDeviceCodeRequest.d.ts
+¦   ¦       ¦   ¦       CommonDeviceCodeRequest.d.ts.map
+¦   ¦       ¦   ¦       CommonOnBehalfOfRequest.d.ts
+¦   ¦       ¦   ¦       CommonOnBehalfOfRequest.d.ts.map
+¦   ¦       ¦   ¦       CommonUsernamePasswordRequest.d.ts
+¦   ¦       ¦   ¦       CommonUsernamePasswordRequest.d.ts.map
+¦   ¦       ¦   ¦       DeviceCodeRequest.d.ts
+¦   ¦       ¦   ¦       DeviceCodeRequest.d.ts.map
+¦   ¦       ¦   ¦       InteractiveRequest.d.ts
+¦   ¦       ¦   ¦       InteractiveRequest.d.ts.map
+¦   ¦       ¦   ¦       ManagedIdentityRequest.d.ts
+¦   ¦       ¦   ¦       ManagedIdentityRequest.d.ts.map
+¦   ¦       ¦   ¦       ManagedIdentityRequestParams.d.ts
+¦   ¦       ¦   ¦       ManagedIdentityRequestParams.d.ts.map
+¦   ¦       ¦   ¦       OnBehalfOfRequest.d.ts
+¦   ¦       ¦   ¦       OnBehalfOfRequest.d.ts.map
+¦   ¦       ¦   ¦       RefreshTokenRequest.d.ts
+¦   ¦       ¦   ¦       RefreshTokenRequest.d.ts.map
+¦   ¦       ¦   ¦       SignOutRequest.d.ts
+¦   ¦       ¦   ¦       SignOutRequest.d.ts.map
+¦   ¦       ¦   ¦       SilentFlowRequest.d.ts
+¦   ¦       ¦   ¦       SilentFlowRequest.d.ts.map
+¦   ¦       ¦   ¦       UsernamePasswordRequest.d.ts
+¦   ¦       ¦   ¦       UsernamePasswordRequest.d.ts.map
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---response
+¦   ¦       ¦   ¦       ManagedIdentityTokenResponse.d.ts
+¦   ¦       ¦   ¦       ManagedIdentityTokenResponse.d.ts.map
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---retry
+¦   ¦       ¦   ¦       DefaultManagedIdentityRetryPolicy.d.ts
+¦   ¦       ¦   ¦       DefaultManagedIdentityRetryPolicy.d.ts.map
+¦   ¦       ¦   ¦       DefaultManagedIdentityRetryPolicy.mjs
+¦   ¦       ¦   ¦       DefaultManagedIdentityRetryPolicy.mjs.map
+¦   ¦       ¦   ¦       ExponentialRetryStrategy.d.ts
+¦   ¦       ¦   ¦       ExponentialRetryStrategy.d.ts.map
+¦   ¦       ¦   ¦       ExponentialRetryStrategy.mjs
+¦   ¦       ¦   ¦       ExponentialRetryStrategy.mjs.map
+¦   ¦       ¦   ¦       IHttpRetryPolicy.d.ts
+¦   ¦       ¦   ¦       IHttpRetryPolicy.d.ts.map
+¦   ¦       ¦   ¦       ImdsRetryPolicy.d.ts
+¦   ¦       ¦   ¦       ImdsRetryPolicy.d.ts.map
+¦   ¦       ¦   ¦       ImdsRetryPolicy.mjs
+¦   ¦       ¦   ¦       ImdsRetryPolicy.mjs.map
+¦   ¦       ¦   ¦       LinearRetryStrategy.d.ts
+¦   ¦       ¦   ¦       LinearRetryStrategy.d.ts.map
+¦   ¦       ¦   ¦       LinearRetryStrategy.mjs
+¦   ¦       ¦   ¦       LinearRetryStrategy.mjs.map
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---utils
+¦   ¦       ¦           Constants.d.ts
+¦   ¦       ¦           Constants.d.ts.map
+¦   ¦       ¦           Constants.mjs
+¦   ¦       ¦           Constants.mjs.map
+¦   ¦       ¦           EncodingUtils.d.ts
+¦   ¦       ¦           EncodingUtils.d.ts.map
+¦   ¦       ¦           EncodingUtils.mjs
+¦   ¦       ¦           EncodingUtils.mjs.map
+¦   ¦       ¦           NetworkUtils.d.ts
+¦   ¦       ¦           NetworkUtils.d.ts.map
+¦   ¦       ¦           TimeUtils.d.ts
+¦   ¦       ¦           TimeUtils.d.ts.map
+¦   ¦       ¦           TimeUtils.mjs
+¦   ¦       ¦           TimeUtils.mjs.map
+¦   ¦       ¦           
+¦   ¦       +---lib
+¦   ¦       ¦   ¦   msal-node.cjs
+¦   ¦       ¦   ¦   msal-node.cjs.map
+¦   ¦       ¦   ¦   package.json
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---types
+¦   ¦       ¦       ¦   index.d.ts
+¦   ¦       ¦       ¦   index.d.ts.map
+¦   ¦       ¦       ¦   internals.d.ts
+¦   ¦       ¦       ¦   internals.d.ts.map
+¦   ¦       ¦       ¦   packageMetadata.d.ts
+¦   ¦       ¦       ¦   packageMetadata.d.ts.map
+¦   ¦       ¦       ¦   
+¦   ¦       ¦       +---cache
+¦   ¦       ¦       ¦   ¦   CacheHelpers.d.ts
+¦   ¦       ¦       ¦   ¦   CacheHelpers.d.ts.map
+¦   ¦       ¦       ¦   ¦   ITokenCache.d.ts
+¦   ¦       ¦       ¦   ¦   ITokenCache.d.ts.map
+¦   ¦       ¦       ¦   ¦   NodeStorage.d.ts
+¦   ¦       ¦       ¦   ¦   NodeStorage.d.ts.map
+¦   ¦       ¦       ¦   ¦   TokenCache.d.ts
+¦   ¦       ¦       ¦   ¦   TokenCache.d.ts.map
+¦   ¦       ¦       ¦   ¦   
+¦   ¦       ¦       ¦   +---distributed
+¦   ¦       ¦       ¦   ¦       DistributedCachePlugin.d.ts
+¦   ¦       ¦       ¦   ¦       DistributedCachePlugin.d.ts.map
+¦   ¦       ¦       ¦   ¦       ICacheClient.d.ts
+¦   ¦       ¦       ¦   ¦       ICacheClient.d.ts.map
+¦   ¦       ¦       ¦   ¦       IPartitionManager.d.ts
+¦   ¦       ¦       ¦   ¦       IPartitionManager.d.ts.map
+¦   ¦       ¦       ¦   ¦       
+¦   ¦       ¦       ¦   +---serializer
+¦   ¦       ¦       ¦           Deserializer.d.ts
+¦   ¦       ¦       ¦           Deserializer.d.ts.map
+¦   ¦       ¦       ¦           Serializer.d.ts
+¦   ¦       ¦       ¦           Serializer.d.ts.map
+¦   ¦       ¦       ¦           SerializerTypes.d.ts
+¦   ¦       ¦       ¦           SerializerTypes.d.ts.map
+¦   ¦       ¦       ¦           
+¦   ¦       ¦       +---client
+¦   ¦       ¦       ¦   ¦   BaseClient.d.ts
+¦   ¦       ¦       ¦   ¦   BaseClient.d.ts.map
+¦   ¦       ¦       ¦   ¦   ClientApplication.d.ts
+¦   ¦       ¦       ¦   ¦   ClientApplication.d.ts.map
+¦   ¦       ¦       ¦   ¦   ClientAssertion.d.ts
+¦   ¦       ¦       ¦   ¦   ClientAssertion.d.ts.map
+¦   ¦       ¦       ¦   ¦   ClientCredentialClient.d.ts
+¦   ¦       ¦       ¦   ¦   ClientCredentialClient.d.ts.map
+¦   ¦       ¦       ¦   ¦   ConfidentialClientApplication.d.ts
+¦   ¦       ¦       ¦   ¦   ConfidentialClientApplication.d.ts.map
+¦   ¦       ¦       ¦   ¦   DeviceCodeClient.d.ts
+¦   ¦       ¦       ¦   ¦   DeviceCodeClient.d.ts.map
+¦   ¦       ¦       ¦   ¦   IConfidentialClientApplication.d.ts
+¦   ¦       ¦       ¦   ¦   IConfidentialClientApplication.d.ts.map
+¦   ¦       ¦       ¦   ¦   IPublicClientApplication.d.ts
+¦   ¦       ¦       ¦   ¦   IPublicClientApplication.d.ts.map
+¦   ¦       ¦       ¦   ¦   ManagedIdentityApplication.d.ts
+¦   ¦       ¦       ¦   ¦   ManagedIdentityApplication.d.ts.map
+¦   ¦       ¦       ¦   ¦   ManagedIdentityClient.d.ts
+¦   ¦       ¦       ¦   ¦   ManagedIdentityClient.d.ts.map
+¦   ¦       ¦       ¦   ¦   OnBehalfOfClient.d.ts
+¦   ¦       ¦       ¦   ¦   OnBehalfOfClient.d.ts.map
+¦   ¦       ¦       ¦   ¦   PublicClientApplication.d.ts
+¦   ¦       ¦       ¦   ¦   PublicClientApplication.d.ts.map
+¦   ¦       ¦       ¦   ¦   UsernamePasswordClient.d.ts
+¦   ¦       ¦       ¦   ¦   UsernamePasswordClient.d.ts.map
+¦   ¦       ¦       ¦   ¦   
+¦   ¦       ¦       ¦   +---ManagedIdentitySources
+¦   ¦       ¦       ¦           AppService.d.ts
+¦   ¦       ¦       ¦           AppService.d.ts.map
+¦   ¦       ¦       ¦           AzureArc.d.ts
+¦   ¦       ¦       ¦           AzureArc.d.ts.map
+¦   ¦       ¦       ¦           BaseManagedIdentitySource.d.ts
+¦   ¦       ¦       ¦           BaseManagedIdentitySource.d.ts.map
+¦   ¦       ¦       ¦           CloudShell.d.ts
+¦   ¦       ¦       ¦           CloudShell.d.ts.map
+¦   ¦       ¦       ¦           Imds.d.ts
+¦   ¦       ¦       ¦           Imds.d.ts.map
+¦   ¦       ¦       ¦           MachineLearning.d.ts
+¦   ¦       ¦       ¦           MachineLearning.d.ts.map
+¦   ¦       ¦       ¦           ServiceFabric.d.ts
+¦   ¦       ¦       ¦           ServiceFabric.d.ts.map
+¦   ¦       ¦       ¦           
+¦   ¦       ¦       +---config
+¦   ¦       ¦       ¦       Configuration.d.ts
+¦   ¦       ¦       ¦       Configuration.d.ts.map
+¦   ¦       ¦       ¦       ManagedIdentityId.d.ts
+¦   ¦       ¦       ¦       ManagedIdentityId.d.ts.map
+¦   ¦       ¦       ¦       ManagedIdentityRequestParameters.d.ts
+¦   ¦       ¦       ¦       ManagedIdentityRequestParameters.d.ts.map
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---crypto
+¦   ¦       ¦       ¦       CryptoProvider.d.ts
+¦   ¦       ¦       ¦       CryptoProvider.d.ts.map
+¦   ¦       ¦       ¦       GuidGenerator.d.ts
+¦   ¦       ¦       ¦       GuidGenerator.d.ts.map
+¦   ¦       ¦       ¦       HashUtils.d.ts
+¦   ¦       ¦       ¦       HashUtils.d.ts.map
+¦   ¦       ¦       ¦       PkceGenerator.d.ts
+¦   ¦       ¦       ¦       PkceGenerator.d.ts.map
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---error
+¦   ¦       ¦       ¦       ClientAuthErrorCodes.d.ts
+¦   ¦       ¦       ¦       ClientAuthErrorCodes.d.ts.map
+¦   ¦       ¦       ¦       ManagedIdentityError.d.ts
+¦   ¦       ¦       ¦       ManagedIdentityError.d.ts.map
+¦   ¦       ¦       ¦       ManagedIdentityErrorCodes.d.ts
+¦   ¦       ¦       ¦       ManagedIdentityErrorCodes.d.ts.map
+¦   ¦       ¦       ¦       NodeAuthError.d.ts
+¦   ¦       ¦       ¦       NodeAuthError.d.ts.map
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---network
+¦   ¦       ¦       ¦       HttpClient.d.ts
+¦   ¦       ¦       ¦       HttpClient.d.ts.map
+¦   ¦       ¦       ¦       HttpClientWithRetries.d.ts
+¦   ¦       ¦       ¦       HttpClientWithRetries.d.ts.map
+¦   ¦       ¦       ¦       ILoopbackClient.d.ts
+¦   ¦       ¦       ¦       ILoopbackClient.d.ts.map
+¦   ¦       ¦       ¦       LoopbackClient.d.ts
+¦   ¦       ¦       ¦       LoopbackClient.d.ts.map
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---protocol
+¦   ¦       ¦       ¦       Authorize.d.ts
+¦   ¦       ¦       ¦       Authorize.d.ts.map
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---request
+¦   ¦       ¦       ¦       AuthorizationCodeRequest.d.ts
+¦   ¦       ¦       ¦       AuthorizationCodeRequest.d.ts.map
+¦   ¦       ¦       ¦       AuthorizationUrlRequest.d.ts
+¦   ¦       ¦       ¦       AuthorizationUrlRequest.d.ts.map
+¦   ¦       ¦       ¦       ClientCredentialRequest.d.ts
+¦   ¦       ¦       ¦       ClientCredentialRequest.d.ts.map
+¦   ¦       ¦       ¦       CommonClientCredentialRequest.d.ts
+¦   ¦       ¦       ¦       CommonClientCredentialRequest.d.ts.map
+¦   ¦       ¦       ¦       CommonDeviceCodeRequest.d.ts
+¦   ¦       ¦       ¦       CommonDeviceCodeRequest.d.ts.map
+¦   ¦       ¦       ¦       CommonOnBehalfOfRequest.d.ts
+¦   ¦       ¦       ¦       CommonOnBehalfOfRequest.d.ts.map
+¦   ¦       ¦       ¦       CommonUsernamePasswordRequest.d.ts
+¦   ¦       ¦       ¦       CommonUsernamePasswordRequest.d.ts.map
+¦   ¦       ¦       ¦       DeviceCodeRequest.d.ts
+¦   ¦       ¦       ¦       DeviceCodeRequest.d.ts.map
+¦   ¦       ¦       ¦       InteractiveRequest.d.ts
+¦   ¦       ¦       ¦       InteractiveRequest.d.ts.map
+¦   ¦       ¦       ¦       ManagedIdentityRequest.d.ts
+¦   ¦       ¦       ¦       ManagedIdentityRequest.d.ts.map
+¦   ¦       ¦       ¦       ManagedIdentityRequestParams.d.ts
+¦   ¦       ¦       ¦       ManagedIdentityRequestParams.d.ts.map
+¦   ¦       ¦       ¦       OnBehalfOfRequest.d.ts
+¦   ¦       ¦       ¦       OnBehalfOfRequest.d.ts.map
+¦   ¦       ¦       ¦       RefreshTokenRequest.d.ts
+¦   ¦       ¦       ¦       RefreshTokenRequest.d.ts.map
+¦   ¦       ¦       ¦       SignOutRequest.d.ts
+¦   ¦       ¦       ¦       SignOutRequest.d.ts.map
+¦   ¦       ¦       ¦       SilentFlowRequest.d.ts
+¦   ¦       ¦       ¦       SilentFlowRequest.d.ts.map
+¦   ¦       ¦       ¦       UsernamePasswordRequest.d.ts
+¦   ¦       ¦       ¦       UsernamePasswordRequest.d.ts.map
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---response
+¦   ¦       ¦       ¦       ManagedIdentityTokenResponse.d.ts
+¦   ¦       ¦       ¦       ManagedIdentityTokenResponse.d.ts.map
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---retry
+¦   ¦       ¦       ¦       DefaultManagedIdentityRetryPolicy.d.ts
+¦   ¦       ¦       ¦       DefaultManagedIdentityRetryPolicy.d.ts.map
+¦   ¦       ¦       ¦       ExponentialRetryStrategy.d.ts
+¦   ¦       ¦       ¦       ExponentialRetryStrategy.d.ts.map
+¦   ¦       ¦       ¦       IHttpRetryPolicy.d.ts
+¦   ¦       ¦       ¦       IHttpRetryPolicy.d.ts.map
+¦   ¦       ¦       ¦       ImdsRetryPolicy.d.ts
+¦   ¦       ¦       ¦       ImdsRetryPolicy.d.ts.map
+¦   ¦       ¦       ¦       LinearRetryStrategy.d.ts
+¦   ¦       ¦       ¦       LinearRetryStrategy.d.ts.map
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---utils
+¦   ¦       ¦               Constants.d.ts
+¦   ¦       ¦               Constants.d.ts.map
+¦   ¦       ¦               EncodingUtils.d.ts
+¦   ¦       ¦               EncodingUtils.d.ts.map
+¦   ¦       ¦               NetworkUtils.d.ts
+¦   ¦       ¦               NetworkUtils.d.ts.map
+¦   ¦       ¦               TimeUtils.d.ts
+¦   ¦       ¦               TimeUtils.d.ts.map
+¦   ¦       ¦               
+¦   ¦       +---src
+¦   ¦           ¦   index.ts
+¦   ¦           ¦   internals.ts
+¦   ¦           ¦   packageMetadata.ts
+¦   ¦           ¦   
+¦   ¦           +---cache
+¦   ¦           ¦   ¦   CacheHelpers.ts
+¦   ¦           ¦   ¦   ITokenCache.ts
+¦   ¦           ¦   ¦   NodeStorage.ts
+¦   ¦           ¦   ¦   TokenCache.ts
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---distributed
+¦   ¦           ¦   ¦       DistributedCachePlugin.ts
+¦   ¦           ¦   ¦       ICacheClient.ts
+¦   ¦           ¦   ¦       IPartitionManager.ts
+¦   ¦           ¦   ¦       
+¦   ¦           ¦   +---serializer
+¦   ¦           ¦           Deserializer.ts
+¦   ¦           ¦           Serializer.ts
+¦   ¦           ¦           SerializerTypes.ts
+¦   ¦           ¦           
+¦   ¦           +---client
+¦   ¦           ¦   ¦   BaseClient.ts
+¦   ¦           ¦   ¦   ClientApplication.ts
+¦   ¦           ¦   ¦   ClientAssertion.ts
+¦   ¦           ¦   ¦   ClientCredentialClient.ts
+¦   ¦           ¦   ¦   ConfidentialClientApplication.ts
+¦   ¦           ¦   ¦   DeviceCodeClient.ts
+¦   ¦           ¦   ¦   IConfidentialClientApplication.ts
+¦   ¦           ¦   ¦   IPublicClientApplication.ts
+¦   ¦           ¦   ¦   ManagedIdentityApplication.ts
+¦   ¦           ¦   ¦   ManagedIdentityClient.ts
+¦   ¦           ¦   ¦   OnBehalfOfClient.ts
+¦   ¦           ¦   ¦   PublicClientApplication.ts
+¦   ¦           ¦   ¦   UsernamePasswordClient.ts
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---ManagedIdentitySources
+¦   ¦           ¦           AppService.ts
+¦   ¦           ¦           AzureArc.ts
+¦   ¦           ¦           BaseManagedIdentitySource.ts
+¦   ¦           ¦           CloudShell.ts
+¦   ¦           ¦           Imds.ts
+¦   ¦           ¦           MachineLearning.ts
+¦   ¦           ¦           ServiceFabric.ts
+¦   ¦           ¦           
+¦   ¦           +---config
+¦   ¦           ¦       Configuration.ts
+¦   ¦           ¦       ManagedIdentityId.ts
+¦   ¦           ¦       ManagedIdentityRequestParameters.ts
+¦   ¦           ¦       
+¦   ¦           +---crypto
+¦   ¦           ¦       CryptoProvider.ts
+¦   ¦           ¦       GuidGenerator.ts
+¦   ¦           ¦       HashUtils.ts
+¦   ¦           ¦       PkceGenerator.ts
+¦   ¦           ¦       
+¦   ¦           +---error
+¦   ¦           ¦       ClientAuthErrorCodes.ts
+¦   ¦           ¦       ManagedIdentityError.ts
+¦   ¦           ¦       ManagedIdentityErrorCodes.ts
+¦   ¦           ¦       NodeAuthError.ts
+¦   ¦           ¦       
+¦   ¦           +---network
+¦   ¦           ¦       HttpClient.ts
+¦   ¦           ¦       HttpClientWithRetries.ts
+¦   ¦           ¦       ILoopbackClient.ts
+¦   ¦           ¦       LoopbackClient.ts
+¦   ¦           ¦       
+¦   ¦           +---protocol
+¦   ¦           ¦       Authorize.ts
+¦   ¦           ¦       
+¦   ¦           +---request
+¦   ¦           ¦       AuthorizationCodeRequest.ts
+¦   ¦           ¦       AuthorizationUrlRequest.ts
+¦   ¦           ¦       ClientCredentialRequest.ts
+¦   ¦           ¦       CommonClientCredentialRequest.ts
+¦   ¦           ¦       CommonDeviceCodeRequest.ts
+¦   ¦           ¦       CommonOnBehalfOfRequest.ts
+¦   ¦           ¦       CommonUsernamePasswordRequest.ts
+¦   ¦           ¦       DeviceCodeRequest.ts
+¦   ¦           ¦       InteractiveRequest.ts
+¦   ¦           ¦       ManagedIdentityRequest.ts
+¦   ¦           ¦       ManagedIdentityRequestParams.ts
+¦   ¦           ¦       OnBehalfOfRequest.ts
+¦   ¦           ¦       RefreshTokenRequest.ts
+¦   ¦           ¦       SignOutRequest.ts
+¦   ¦           ¦       SilentFlowRequest.ts
+¦   ¦           ¦       UsernamePasswordRequest.ts
+¦   ¦           ¦       
+¦   ¦           +---response
+¦   ¦           ¦       ManagedIdentityTokenResponse.ts
+¦   ¦           ¦       
+¦   ¦           +---retry
+¦   ¦           ¦       DefaultManagedIdentityRetryPolicy.ts
+¦   ¦           ¦       ExponentialRetryStrategy.ts
+¦   ¦           ¦       IHttpRetryPolicy.ts
+¦   ¦           ¦       ImdsRetryPolicy.ts
+¦   ¦           ¦       LinearRetryStrategy.ts
+¦   ¦           ¦       
+¦   ¦           +---utils
+¦   ¦                   Constants.ts
+¦   ¦                   EncodingUtils.ts
+¦   ¦                   NetworkUtils.ts
+¦   ¦                   TimeUtils.ts
+¦   ¦                   
+¦   +---accepts
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---body-parser
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦       ¦   read.js
+¦   ¦       ¦   utils.js
+¦   ¦       ¦   
+¦   ¦       +---types
+¦   ¦               json.js
+¦   ¦               raw.js
+¦   ¦               text.js
+¦   ¦               urlencoded.js
+¦   ¦               
+¦   +---buffer-equal-constant-time
+¦   ¦       .npmignore
+¦   ¦       .travis.yml
+¦   ¦       index.js
+¦   ¦       LICENSE.txt
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       test.js
+¦   ¦       
+¦   +---bytes
+¦   ¦       History.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       Readme.md
+¦   ¦       
+¦   +---call-bind-apply-helpers
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   actualApply.d.ts
+¦   ¦   ¦   actualApply.js
+¦   ¦   ¦   applyBind.d.ts
+¦   ¦   ¦   applyBind.js
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   functionApply.d.ts
+¦   ¦   ¦   functionApply.js
+¦   ¦   ¦   functionCall.d.ts
+¦   ¦   ¦   functionCall.js
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   reflectApply.d.ts
+¦   ¦   ¦   reflectApply.js
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---call-bound
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---content-disposition
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---content-type
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---cookie
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       SECURITY.md
+¦   ¦       
+¦   +---cookie-signature
+¦   ¦       History.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       Readme.md
+¦   ¦       
+¦   +---debug
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦           browser.js
+¦   ¦           common.js
+¦   ¦           index.js
+¦   ¦           node.js
+¦   ¦           
+¦   +---depd
+¦   ¦   ¦   History.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   Readme.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦       +---browser
+¦   ¦               index.js
+¦   ¦               
+¦   +---dotenv
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   config.d.ts
+¦   ¦   ¦   config.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README-es.md
+¦   ¦   ¦   README.md
+¦   ¦   ¦   SECURITY.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           cli-options.js
+¦   ¦           env-options.js
+¦   ¦           main.d.ts
+¦   ¦           main.js
+¦   ¦           
+¦   +---dunder-proto
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   get.d.ts
+¦   ¦   ¦   get.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   set.d.ts
+¦   ¦   ¦   set.js
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           get.js
+¦   ¦           index.js
+¦   ¦           set.js
+¦   ¦           
+¦   +---ecdsa-sig-formatter
+¦   ¦   ¦   CODEOWNERS
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦           ecdsa-sig-formatter.d.ts
+¦   ¦           ecdsa-sig-formatter.js
+¦   ¦           param-bytes-for-alg.js
+¦   ¦           
+¦   +---ee-first
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---encodeurl
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---es-define-property
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---es-errors
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   eval.d.ts
+¦   ¦   ¦   eval.js
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   range.d.ts
+¦   ¦   ¦   range.js
+¦   ¦   ¦   README.md
+¦   ¦   ¦   ref.d.ts
+¦   ¦   ¦   ref.js
+¦   ¦   ¦   syntax.d.ts
+¦   ¦   ¦   syntax.js
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   type.d.ts
+¦   ¦   ¦   type.js
+¦   ¦   ¦   uri.d.ts
+¦   ¦   ¦   uri.js
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---es-object-atoms
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   isObject.d.ts
+¦   ¦   ¦   isObject.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   RequireObjectCoercible.d.ts
+¦   ¦   ¦   RequireObjectCoercible.js
+¦   ¦   ¦   ToObject.d.ts
+¦   ¦   ¦   ToObject.js
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---escape-html
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       Readme.md
+¦   ¦       
+¦   +---etag
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---express
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   Readme.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           application.js
+¦   ¦           express.js
+¦   ¦           request.js
+¦   ¦           response.js
+¦   ¦           utils.js
+¦   ¦           view.js
+¦   ¦           
+¦   +---express-session
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---node_modules
+¦   ¦   ¦   +---cookie-signature
+¦   ¦   ¦   ¦       History.md
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       package.json
+¦   ¦   ¦   ¦       Readme.md
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---debug
+¦   ¦   ¦   ¦   ¦   .coveralls.yml
+¦   ¦   ¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   ¦   ¦   .npmignore
+¦   ¦   ¦   ¦   ¦   .travis.yml
+¦   ¦   ¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   ¦   ¦   component.json
+¦   ¦   ¦   ¦   ¦   karma.conf.js
+¦   ¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   ¦   Makefile
+¦   ¦   ¦   ¦   ¦   node.js
+¦   ¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦           browser.js
+¦   ¦   ¦   ¦           debug.js
+¦   ¦   ¦   ¦           index.js
+¦   ¦   ¦   ¦           inspector-log.js
+¦   ¦   ¦   ¦           node.js
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---ms
+¦   ¦   ¦           index.js
+¦   ¦   ¦           license.md
+¦   ¦   ¦           package.json
+¦   ¦   ¦           readme.md
+¦   ¦   ¦           
+¦   ¦   +---session
+¦   ¦           cookie.js
+¦   ¦           memory.js
+¦   ¦           session.js
+¦   ¦           store.js
+¦   ¦           
+¦   +---finalhandler
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---forwarded
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---fresh
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---function-bind
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   implementation.js
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       SECURITY.md
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           .eslintrc
+¦   ¦           index.js
+¦   ¦           
+¦   +---get-intrinsic
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           GetIntrinsic.js
+¦   ¦           
+¦   +---get-proto
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   Object.getPrototypeOf.d.ts
+¦   ¦   ¦   Object.getPrototypeOf.js
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   Reflect.getPrototypeOf.d.ts
+¦   ¦   ¦   Reflect.getPrototypeOf.js
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---gopd
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   gOPD.d.ts
+¦   ¦   ¦   gOPD.js
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---has-symbols
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   shams.d.ts
+¦   ¦   ¦   shams.js
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦       ¦   index.js
+¦   ¦       ¦   tests.js
+¦   ¦       ¦   
+¦   ¦       +---shams
+¦   ¦               core-js.js
+¦   ¦               get-own-property-symbols.js
+¦   ¦               
+¦   +---hasown
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦           FUNDING.yml
+¦   ¦           
+¦   +---http-errors
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---iconv-lite
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---encodings
+¦   ¦   ¦   ¦   dbcs-codec.js
+¦   ¦   ¦   ¦   dbcs-data.js
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   internal.js
+¦   ¦   ¦   ¦   sbcs-codec.js
+¦   ¦   ¦   ¦   sbcs-data-generated.js
+¦   ¦   ¦   ¦   sbcs-data.js
+¦   ¦   ¦   ¦   utf16.js
+¦   ¦   ¦   ¦   utf32.js
+¦   ¦   ¦   ¦   utf7.js
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---tables
+¦   ¦   ¦           big5-added.json
+¦   ¦   ¦           cp936.json
+¦   ¦   ¦           cp949.json
+¦   ¦   ¦           cp950.json
+¦   ¦   ¦           eucjp.json
+¦   ¦   ¦           gb18030-ranges.json
+¦   ¦   ¦           gbk-added.json
+¦   ¦   ¦           shiftjis.json
+¦   ¦   ¦           
+¦   ¦   +---lib
+¦   ¦   ¦   ¦   bom-handling.js
+¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   streams.js
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---helpers
+¦   ¦   ¦           merge-exports.js
+¦   ¦   ¦           
+¦   ¦   +---types
+¦   ¦           encodings.d.ts
+¦   ¦           
+¦   +---inherits
+¦   ¦       inherits.js
+¦   ¦       inherits_browser.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---ipaddr.js
+¦   ¦   ¦   ipaddr.min.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           ipaddr.js
+¦   ¦           ipaddr.js.d.ts
+¦   ¦           
+¦   +---is-promise
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       index.mjs
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---jsonwebtoken
+¦   ¦   ¦   decode.js
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   sign.js
+¦   ¦   ¦   verify.js
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           asymmetricKeyDetailsSupported.js
+¦   ¦           JsonWebTokenError.js
+¦   ¦           NotBeforeError.js
+¦   ¦           psSupported.js
+¦   ¦           rsaPssKeyDetailsSupported.js
+¦   ¦           timespan.js
+¦   ¦           TokenExpiredError.js
+¦   ¦           validateAsymmetricKey.js
+¦   ¦           
+¦   +---jwa
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       opslevel.yml
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---jws
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   opslevel.yml
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           data-stream.js
+¦   ¦           sign-stream.js
+¦   ¦           tostring.js
+¦   ¦           verify-stream.js
+¦   ¦           
+¦   +---lodash.includes
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---lodash.isboolean
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---lodash.isinteger
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---lodash.isnumber
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---lodash.isplainobject
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---lodash.isstring
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---lodash.once
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---math-intrinsics
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   abs.d.ts
+¦   ¦   ¦   abs.js
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   floor.d.ts
+¦   ¦   ¦   floor.js
+¦   ¦   ¦   isFinite.d.ts
+¦   ¦   ¦   isFinite.js
+¦   ¦   ¦   isInteger.d.ts
+¦   ¦   ¦   isInteger.js
+¦   ¦   ¦   isNaN.d.ts
+¦   ¦   ¦   isNaN.js
+¦   ¦   ¦   isNegativeZero.d.ts
+¦   ¦   ¦   isNegativeZero.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   max.d.ts
+¦   ¦   ¦   max.js
+¦   ¦   ¦   min.d.ts
+¦   ¦   ¦   min.js
+¦   ¦   ¦   mod.d.ts
+¦   ¦   ¦   mod.js
+¦   ¦   ¦   package.json
+¦   ¦   ¦   pow.d.ts
+¦   ¦   ¦   pow.js
+¦   ¦   ¦   README.md
+¦   ¦   ¦   round.d.ts
+¦   ¦   ¦   round.js
+¦   ¦   ¦   sign.d.ts
+¦   ¦   ¦   sign.js
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---constants
+¦   ¦   ¦       maxArrayLength.d.ts
+¦   ¦   ¦       maxArrayLength.js
+¦   ¦   ¦       maxSafeInteger.d.ts
+¦   ¦   ¦       maxSafeInteger.js
+¦   ¦   ¦       maxValue.d.ts
+¦   ¦   ¦       maxValue.js
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---media-typer
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---merge-descriptors
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---mime-db
+¦   ¦       db.json
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---mime-types
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       mimeScore.js
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---ms
+¦   ¦       index.js
+¦   ¦       license.md
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---negotiator
+¦   ¦   ¦   HISTORY.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           charset.js
+¦   ¦           encoding.js
+¦   ¦           language.js
+¦   ¦           mediaType.js
+¦   ¦           
+¦   +---object-inspect
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package-support.json
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.markdown
+¦   ¦   ¦   test-core-js.js
+¦   ¦   ¦   util.inspect.js
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---example
+¦   ¦   ¦       all.js
+¦   ¦   ¦       circular.js
+¦   ¦   ¦       fn.js
+¦   ¦   ¦       inspect.js
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦       ¦   bigint.js
+¦   ¦       ¦   circular.js
+¦   ¦       ¦   deep.js
+¦   ¦       ¦   element.js
+¦   ¦       ¦   err.js
+¦   ¦       ¦   fakes.js
+¦   ¦       ¦   fn.js
+¦   ¦       ¦   global.js
+¦   ¦       ¦   has.js
+¦   ¦       ¦   holes.js
+¦   ¦       ¦   indent-option.js
+¦   ¦       ¦   inspect.js
+¦   ¦       ¦   lowbyte.js
+¦   ¦       ¦   number.js
+¦   ¦       ¦   quoteStyle.js
+¦   ¦       ¦   toStringTag.js
+¦   ¦       ¦   undef.js
+¦   ¦       ¦   values.js
+¦   ¦       ¦   
+¦   ¦       +---browser
+¦   ¦               dom.js
+¦   ¦               
+¦   +---on-finished
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---on-headers
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---once
+¦   ¦       LICENSE
+¦   ¦       once.js
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---parseurl
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---path-to-regexp
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   Readme.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦           index.d.ts
+¦   ¦           index.js
+¦   ¦           index.js.map
+¦   ¦           
+¦   +---proxy-addr
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---qs
+¦   ¦   ¦   .editorconfig
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   eslint.config.mjs
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       SECURITY.md
+¦   ¦   ¦       THREAT_MODEL.md
+¦   ¦   ¦       
+¦   ¦   +---dist
+¦   ¦   ¦       qs.js
+¦   ¦   ¦       
+¦   ¦   +---lib
+¦   ¦   ¦       formats.js
+¦   ¦   ¦       index.js
+¦   ¦   ¦       parse.js
+¦   ¦   ¦       stringify.js
+¦   ¦   ¦       utils.js
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           empty-keys-cases.js
+¦   ¦           parse.js
+¦   ¦           stringify.js
+¦   ¦           utils.js
+¦   ¦           
+¦   +---random-bytes
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---range-parser
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---raw-body
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---router
+¦   ¦   ¦   HISTORY.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           layer.js
+¦   ¦           route.js
+¦   ¦           
+¦   +---safe-buffer
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---safer-buffer
+¦   ¦       dangerous.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       Porting-Buffer.md
+¦   ¦       Readme.md
+¦   ¦       safer.js
+¦   ¦       tests.js
+¦   ¦       
+¦   +---semver
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   preload.js
+¦   ¦   ¦   range.bnf
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       semver.js
+¦   ¦   ¦       
+¦   ¦   +---classes
+¦   ¦   ¦       comparator.js
+¦   ¦   ¦       index.js
+¦   ¦   ¦       range.js
+¦   ¦   ¦       semver.js
+¦   ¦   ¦       
+¦   ¦   +---functions
+¦   ¦   ¦       clean.js
+¦   ¦   ¦       cmp.js
+¦   ¦   ¦       coerce.js
+¦   ¦   ¦       compare-build.js
+¦   ¦   ¦       compare-loose.js
+¦   ¦   ¦       compare.js
+¦   ¦   ¦       diff.js
+¦   ¦   ¦       eq.js
+¦   ¦   ¦       gt.js
+¦   ¦   ¦       gte.js
+¦   ¦   ¦       inc.js
+¦   ¦   ¦       lt.js
+¦   ¦   ¦       lte.js
+¦   ¦   ¦       major.js
+¦   ¦   ¦       minor.js
+¦   ¦   ¦       neq.js
+¦   ¦   ¦       parse.js
+¦   ¦   ¦       patch.js
+¦   ¦   ¦       prerelease.js
+¦   ¦   ¦       rcompare.js
+¦   ¦   ¦       rsort.js
+¦   ¦   ¦       satisfies.js
+¦   ¦   ¦       sort.js
+¦   ¦   ¦       valid.js
+¦   ¦   ¦       
+¦   ¦   +---internal
+¦   ¦   ¦       constants.js
+¦   ¦   ¦       debug.js
+¦   ¦   ¦       identifiers.js
+¦   ¦   ¦       lrucache.js
+¦   ¦   ¦       parse-options.js
+¦   ¦   ¦       re.js
+¦   ¦   ¦       
+¦   ¦   +---ranges
+¦   ¦           gtr.js
+¦   ¦           intersects.js
+¦   ¦           ltr.js
+¦   ¦           max-satisfying.js
+¦   ¦           min-satisfying.js
+¦   ¦           min-version.js
+¦   ¦           outside.js
+¦   ¦           simplify.js
+¦   ¦           subset.js
+¦   ¦           to-comparators.js
+¦   ¦           valid.js
+¦   ¦           
+¦   +---send
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---serve-static
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---setprototypeof
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---side-channel
+¦   ¦   ¦   .editorconfig
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---side-channel-list
+¦   ¦   ¦   .editorconfig
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   list.d.ts
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---side-channel-map
+¦   ¦   ¦   .editorconfig
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---side-channel-weakmap
+¦   ¦   ¦   .editorconfig
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   tsconfig.json
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           index.js
+¦   ¦           
+¦   +---statuses
+¦   ¦       codes.json
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---toidentifier
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---type-is
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---uid-safe
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---unpipe
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---uuid
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   CONTRIBUTING.md
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   wrapper.mjs
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦       ¦   index.js
+¦   ¦       ¦   md5-browser.js
+¦   ¦       ¦   md5.js
+¦   ¦       ¦   nil.js
+¦   ¦       ¦   parse.js
+¦   ¦       ¦   regex.js
+¦   ¦       ¦   rng-browser.js
+¦   ¦       ¦   rng.js
+¦   ¦       ¦   sha1-browser.js
+¦   ¦       ¦   sha1.js
+¦   ¦       ¦   stringify.js
+¦   ¦       ¦   uuid-bin.js
+¦   ¦       ¦   v1.js
+¦   ¦       ¦   v3.js
+¦   ¦       ¦   v35.js
+¦   ¦       ¦   v4.js
+¦   ¦       ¦   v5.js
+¦   ¦       ¦   validate.js
+¦   ¦       ¦   version.js
+¦   ¦       ¦   
+¦   ¦       +---bin
+¦   ¦       ¦       uuid
+¦   ¦       ¦       
+¦   ¦       +---esm-browser
+¦   ¦       ¦       index.js
+¦   ¦       ¦       md5.js
+¦   ¦       ¦       nil.js
+¦   ¦       ¦       parse.js
+¦   ¦       ¦       regex.js
+¦   ¦       ¦       rng.js
+¦   ¦       ¦       sha1.js
+¦   ¦       ¦       stringify.js
+¦   ¦       ¦       v1.js
+¦   ¦       ¦       v3.js
+¦   ¦       ¦       v35.js
+¦   ¦       ¦       v4.js
+¦   ¦       ¦       v5.js
+¦   ¦       ¦       validate.js
+¦   ¦       ¦       version.js
+¦   ¦       ¦       
+¦   ¦       +---esm-node
+¦   ¦       ¦       index.js
+¦   ¦       ¦       md5.js
+¦   ¦       ¦       nil.js
+¦   ¦       ¦       parse.js
+¦   ¦       ¦       regex.js
+¦   ¦       ¦       rng.js
+¦   ¦       ¦       sha1.js
+¦   ¦       ¦       stringify.js
+¦   ¦       ¦       v1.js
+¦   ¦       ¦       v3.js
+¦   ¦       ¦       v35.js
+¦   ¦       ¦       v4.js
+¦   ¦       ¦       v5.js
+¦   ¦       ¦       validate.js
+¦   ¦       ¦       version.js
+¦   ¦       ¦       
+¦   ¦       +---umd
+¦   ¦               uuid.min.js
+¦   ¦               uuidNIL.min.js
+¦   ¦               uuidParse.min.js
+¦   ¦               uuidStringify.min.js
+¦   ¦               uuidv1.min.js
+¦   ¦               uuidv3.min.js
+¦   ¦               uuidv4.min.js
+¦   ¦               uuidv5.min.js
+¦   ¦               uuidValidate.min.js
+¦   ¦               uuidVersion.min.js
+¦   ¦               
+¦   +---vary
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---wrappy
+¦           LICENSE
+¦           package.json
+¦           README.md
+¦           wrappy.js
+¦           
++---runbooks
+        RB-001-Redirect-URI-Mismatch.md
+        RB-002-Invalid-Client-Secret.md
+        
