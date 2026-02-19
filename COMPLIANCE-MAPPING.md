@@ -1,22 +1,18 @@
-\# Compliance \& Audit Readiness Mapping (Demo)
+**\# Compliance \& Audit Readiness Mapping (Demo)**
 
-
-
-\## Important note (scope)
+**\## Important note (scope)**
 
 ISO 27001 compliance is organisational, not something a single repo can claim.  
 
 What this demo provides is \*\*control implementation + evidence\*\* that supports an ISO-style audit: secure configuration, secret hygiene, traceable changes via audit logs, and repeatable runbooks.
 
-
-
-\## Audit readiness (what I do consistently)
+**\## Audit readiness (what I do consistently)**
 
 My focus is audit readiness: every onboarding has a repeatable checklist, logs-based verification, and documented break/fix paths—so we can prove control and reduce repeat incidents.
 
 
 
-\### Evidence produced by this demo
+**\### Evidence produced by this demo**
 
 \- \*\*Microsoft Entra Sign-in logs\*\*: success/failure, error codes (AADSTS\*), Conditional Access/MFA status (if enabled)
 
@@ -28,11 +24,11 @@ My focus is audit readiness: every onboarding has a repeatable checklist, logs-b
 
 
 
-\## Framework alignment (practical mapping)
+**\## Framework alignment (practical mapping)**
 
 
 
-\### NIST CSF (high level)
+**\### NIST CSF (high level)**
 
 \- \*\*Identify\*\*: document app registration settings (authority, redirect URI, scopes)
 
@@ -46,7 +42,7 @@ My focus is audit readiness: every onboarding has a repeatable checklist, logs-b
 
 
 
-\### ITIL (operational alignment)
+**\### ITIL (operational alignment)**
 
 \- \*\*Incident Management\*\*: handle auth failures using runbooks + log-led triage
 
@@ -56,9 +52,10 @@ My focus is audit readiness: every onboarding has a repeatable checklist, logs-b
 
 
 
-\## What is out of scope for this demo
+**\## What is out of scope for this demo**
 
 \- Full identity lifecycle (Joiner/Mover/Leaver), SCIM provisioning, access reviews, privileged access governance
 
 \- Organisation-level ISO 27001 certification / ISMS processes
+
 
